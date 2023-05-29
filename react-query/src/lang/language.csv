@@ -1,0 +1,1686 @@
+,en,vn,thailand,indonesia
+login.login_btn,Sign in,Đăng nhập,เข้าสู่ระบบ,Masuk
+login.email,Username/Email,Email/Tài khoản,อีเมล/บัญชีผู้ใช้,Akun email
+login.password,Password,Mật khẩu,รหัสผ่าน,Kata sandi
+login.forgot_pass,Forgot password,Quên mật khẩu,ลืมรหัสผ่าน,Lupa kata sandi
+login.redirectToDashboard,Welcome. You will be redirect to the dashboard momentarily.,Xin chào. Bạn sẽ được chuyển về trang chủ trong giây lát.,ยินดีต้อนรับ คุณจะถูกเปลี่ยนเส้นทางไปยังหน้าแรกในไม่ช้า,Halo. Anda akan diarahkan ke beranda segara
+login.redirectToLogin,Please wait. You will be redirect to the login page momentarily.,Vui lòng chờ. Bạn sẽ được chuyển sang trang đăng nhập trong giây lát.,โปรดรอ. คุณจะถูกเปลี่ยนเส้นทางไปยังหน้าเข้าสู่ระบบชั่วขณะ,Mohon tunggu sebentar. Anda akan diarahkan ke halaman Masuk
+login.notPermission,Sorry. you don't have permission to access this page.,Xin lỗi. Bạn không có quyền truy cập trang này.,ขอโทษ คุณไม่ได้รับอนุญาตให้เข้าถึงหน้านี้,Maaf. Anda tidak dapat mengakses halaman ini.
+login.contactAdmin,Please contact the manager.,Vui lòng liên hệ quản lý.,โปรดติดต่อผู้จัดการ,Silakan hubungi manajemen
+login.tryAgain,Try again,Thử lại,ลองอีกครั้ง,Coba lagi
+login.logout_btn,Logout,Đăng xuất,ออกจากระบบ,Keluar
+login.login_btn_via_id,Login via Gobiz ID,Đăng nhập bằng Gobiz ID,เข้าสู่ระบบด้วย Gobiz ID,Masuk dengan Akun Gobiz ID
+login.go_back,Go back,Quay lại,Go back,Go back
+contact.page_title,Leads,Khách hàng tiềm năng,ลูกค้าเป้าหมาย,Pelanggan potensial
+contact.contact_customer,Leads,Khách hàng tiềm năng,ลูกค้าเป้าหมาย,Pelanggan potensial
+contact.fullname,Fullname,Họ tên,ชื่อเต็ม,Nama Lengkap
+contact.phone,Phone number,Số điện thoại ,หมายเลขโทรศัพท์,Nomor Telepon
+contact.add_contact,Add Contact,Thêm liên hệ,เพิ่มผู้ติดต่อ,Kontak lain
+contact.page,Page,Trang,หน้า,Halaman
+contact.page_change,page,trang,หน้า,halaman
+contact.search,Search,Tìm kiếm,ค้นหา,Pencarian 
+contact.created_at,Created at,Ngày thêm,สร้างที่,Tambah tanggal
+contact.assign_to,Assigned to,Phụ trách,ได้รับมอบหมายให้,Bertanggung Jawab
+contact.select_assign_to,Search assigned to,Tìm kiếm người phụ trách,Search assigned to,Search assigned to
+contact.select_assign_by,Search assigned by,Tìm kiếm người phân liên hệ,Search assigned by,Search assigned by
+contact.assign_to_title,Assign to,Phụ trách,มอบหมายให้,Bertanggung Jawab
+contact.unassign_to,Unassign,Chưa phụ trách,ยังไม่ได้มอบหมาย,Belum Bertanggung Jawab
+contact.unassign_btn,Unassign,Trả contact ,ยกเลิกการมอบหมาย,Kembalikan Kontak
+contact.assign_contacts,Get Contact,Nhận liên hệ,กำหนดผู้ติดต่อ,Bagi Kontak
+contact.calls,Calls,Lần gọi,โทร,Kali Telepon
+contact.stage,Contact State,Trạng thái,สถานะ,Status 
+contact.uncheck,Uncheck,Bỏ chọn,ไม่ถูกเลือก,Batal Pelihan
+contact.status,Status,Cuộc gọi,โทร,Panggilan
+contact.select_status,Select status,Chọn cuộc gọi,เลือกโทร,Pelih Panggilan
+contact.entry,contacts,số điện thoại,หมายเลขโทรศัพท์,Nomor Telepon
+contact.filter,Filter,Bộ lọc,กรอง/ฟิลเตอร์,Menyaring
+contact.clear,Clear all filters, Xóa lọc,ล้างตัวกรองทั้งหมด,Hapus Menyaring
+contact.cancel,Cancel,Huỷ,ยกเลิก,Batal
+contact.ok,OK,OK,ตกลง,Setuju
+contact.period,Periods,Khoảng thời gian,ระยะเวลา,Kira-kira Waktu
+contact.quick_select,Quick select,Chọn nhanh,เลือกด่วน,Pelih Cepat
+contact.day,day,ngày,วัน,Tanggal
+contact.days,days,ngày,วัน,Tanggal
+contact.week,week,tuần,สัปดาห์,Minggu
+contact.weeks,weeks,tuần,สัปดาห์,Minggu
+contact.month,month,tháng,เดือน,Bulan
+contact.month,months,tháng,เดือน,Bulan
+contact.year,year,năm,ปี,Tahun
+contact.years,years,năm,ปี,Tahun
+contact.auto_assign,Auto assign,Giao tự động,กำหนดอัตโนมัติ,Bagi Automatis
+contact.add_telesale,Add Telesales,Thêm telesales,เพิ่มเทเลเซลล์,Tambah Telesales
+contact.contact_not_assign,Unassigned,số chưa giao,ยังไม่ได้มอบหมาย,Nomor Telepon Belum Bagi
+contact.import_contact,Import Contact,Import liên hệ,นำเข้าผู้ติดต่อ,Impor Kontak
+contact.select_campaign,Search Campaign,Tìm kiếm chiến dịch,เลือกแคมเปญ,Kampanye
+contact.campaign,Campaign,Chiến dịch,แคมเปญ,Kampanye
+contact.empty_records,Have no contacts yet,Không tồn tại bản ghi nào,ไม่มีบันทึก,Tidak ada catatan
+contact.select_telesale,Select Telesale,Chọn Telesale,เลือกเทเลเซลล์,Pelih Telesale
+contact.find_telesale,Find Telesale,Nhập Telesale,ค้นหาเทเลเซลล์,Klik Masuk Telesale
+contact.required_users,Please select a group,Vui lòng chọn nhóm,กรุณาเลือกกลุ่ม,Silakan Pelih Grup
+contact.required_quantity,Quantity is required,Vui lòng nhập số lượng,กรุณากรอกจำนวน,Silakan Masukkan Jumlah
+contact.quantity_must_number,Quantiy must be a number,Vui lòng nhập số,กรุณากรอกหมายเลข,Silakan Masukkan Nomornya
+contact.sales_must_lte_quantity,Sales must less than quantites,Số lượng sales cần <= số liên hệ,ยอดขายต้องน้อยกว่าปริมาณ,Jumlah Telesale Perlu=Kontak
+contact.quantity_must_lte_quantity_unassign,Invalid quantity,Vượt quá số lượng cho phép,เกินจำนวนที่อนุญาต,Melebih Jumlah Yang Diizinkan
+contact.my_contact,Only My Contacts,Khách hàng của tôi,ลูกค้าของฉัน,Pelanggan Saya
+contact.export_contact,Export contact,Xuất file thông tin liên hệ,ส่งออกไฟล์ข้อมูลการติดต่อ,Ekspor File Kontak
+contact.export_order,Export order,Xuất file đơn hàng,ไฟล์คำสั่งส่งออก,Ekspor File Pesanan
+contact.deliveryDate,Delivery,Hẹn giao,วันที่จัดส่ง,Tanggal Pengiriman
+contact.export,Export,Xuất file,ส่งออกไฟล์  ,Ekspor File
+contact.callTime,Last Call At,Lần gọi cuối,สายสุดท้าย,Panggilan Terakhir
+contact.note,Note,Ghi chú,หมายเหตุ,Catatan
+contact.all,All,Tất cả,ทั้งหมด,Semua
+contact.appointment,Appointment,Lịch hẹn,ตารางนัดหมาย,Jadwal Janji Pengiriman
+contact.equal,Equal,Bằng,เท่ากัน,Sama
+contact.more,Greater than or equal,Lớn hơn hoặc bằng,มากกว่าหรือเท่ากับ,Lebih atau Sama
+contact.less,Less than or equal ,Nhỏ hơn hoặc bằng,น้อยกว่าหรือเท่ากับ,Kurang atau Sama
+contact.between,Between,Khoảng,ประมาณ,Kira-kira
+contact.greater_than_or_equal_0,Input number greater than or equal 0,Nhập số lớn hơn hoặc bằng 0,ป้อนตัวเลขที่มากกว่าหรือเท่ากับ 0,Masukkan angka yang lebih besar atau Sama dengan 0
+contact.greater_than_or_equal_1,Should input number greater than or equal 1,Nên nhập số lớn hơn hoặc bằng 1,ขอแนะนำให้ป้อนตัวเลขที่มากกว่าหรือเท่ากับ1,Harus Masukkan Angka yang lebih besar atau sama dengan 1 
+contact.shoul_input_less_than_100,Should input number less than 100,Nên nhập số nhỏ hơn 100,ขอแนะนำให้ป้อนตัวเลขที่น้อยกว่า 100,Harus Masukkan Angka kurang dari 100
+contac.value_integer,The value is not an integer,Giá trị nhập không phải là số nguyên,ค่าไม่ใช่จำนวนเต็ม,Nilai input bukan bilangan genap
+contact.input_number,Input Number,Nhập số,ใส่หมายเลข,Masukkan nomor
+contact.to,To,Đến,ถึง,Tujuan
+contact.from,From,Từ,จาก,Dari
+contact.check_filed,Please check this field,Vui lòng kiểm tra lại trường này,โปรดตรวจสอบช่องนี้,Silakan periksa bidang ini lagi
+contact.empty_tls,Have no telesales yet,Không có TLS đang hoạt động,ยังไม่มีเทเลเซลล์,Tidak ada TLS yang aktif
+contact.select_ads,Select ads,Chọn quảng cáo,เลือกโฆษณา,Pilih iklan
+contact.assigned_at,Assigned at,Ngày phân LH,มอบหมายที่,Hari Bagi Kontak
+contact.assigned_by,Assigned by,Người phân LH,ได้รับมอบหมายโดย,Orang yang Bagi Kontak
+contact.ad_creator,Ad Created By,Người tạo quảng cáo,สร้างโฆษณาโดย,Orang Pembuat iklan
+contact.select_ad_creator,Select Ad Created By,Chọn người tạo quảng cáo,เลือกโฆษณาที่สร้างโดย,Pilih Orang yang pembuat iklan
+contact.campaign_creator,Campaign Created By,Người tạo chiến dịch,แคมเปญที่สร้างโดย,Orang Pembuat kampanye
+contact.get_contact,Get contact,Nhận số liên hệ,รับเบอร์ติดต่อ,Dapatkan nomor kontak
+contact.get_contact_success,The system only has,Hệ thống chỉ còn lại,ระบบมีเพียง system,Nomor tersisa di sistem
+contact.get_contact_messenger,you will get,bạn sẽ nhận được,คุณจะได้รับ,Anda akan mendapatkan
+contact.you_have_got,You have got,Bạn đã nhận được,คุณมี,Anda telah menerima
+contact.new_contact,New contact,Liên hệ mới,ผู้ติดต่อใหม่,Kontak baru
+contact.max_contact,There is no contact to assign you,Hết contact có thể phân cho bạn,ไม่มีผู้ติดต่อที่จะมอบหมายให้คุณ,Tidak kontak di sistem buat Anda
+contact.permissiong_product,There is no contact in your product permissioned,Không có contact thuộc sản phẩm bạn được phân quyền,ไม่มีการติดต่อภายใต้ผลิตภัณฑ์ที่ได้รับอนุญาตของคุณ,Tidak ada kontak dari produk untuk Anda
+contact.search_group,Find group,Tìm kiếm nhóm,ค้นหากลุ่ม,Pencarian Grup
+contact.contact_alert,There is no contact yet,Không có contact nào chưa được phân,ไม่มีรายชื่อติดต่อที่ไม่ได้มอบหมาย,Tidak ada kontak yang tidak Bagikan
+contact.table_option,Table Option,Tùy chỉnh bảng,ตัวเลือกตาราง,Table Sesuaikan 
+contact.table_option_alert,Choose column to display,Chọn cột để hiển thị,เลือกคอลัมน์ที่จะแสดง,Pilih kolom untuk ditampilkan
+contact.check_all,Selected all,Chọn tất cả,เลือกทั้งหมด,Pilih Semua
+contact.vendor,Vendor,Đối tác,ผู้ขาย,Pasangan
+contact.country,Country,Quốc gia,ประเทศ,Bangsa
+contact.many_contact,You have too many contacts need to call. Please call to them ,Bạn còn quá nhiều contact chưa gọi. Vui lòng gọi hết để nhận thêm,คุณมีผู้ติดต่อจำนวนมากที่ต้องโทร กรุณาโทรทั้งหมดเพื่อรับเพิ่มเติม,Anda masih ada banyak kontak yang belum telepon. Silakan hubungi semua untuk bisa tambah Nomor Telepon
+contact.export_contact_send_to_mail,Please check your mail to get export link,Vui lòng kiểm tra mail của bạn để lấy link export,โปรดตรวจสอบอีเมลของคุณสำหรับลิงค์ส่งออก,Silakan Anda periksa email untuk ekspor Link
+contact.confirm_delete_contact_when_count_ad_gt_1,This contact belongs to more than one ad. Are you sure you want to delete it,Liên hệ này thuộc về nhiều hơn một quảng cáo. Bạn có chắc chắn muốn xóa không,ผู้ติดต่อรายนี้อยู่ในโฆษณามากกว่าหนึ่งรายการ คุณแน่ใจหรือว่าต้องการลบ?,Kontak ini ada lebih satu dari iklan. Anda yakin ingin menghapus?
+contact.title,Contact,Số liên hệ,เบอร์ติดต่อ,Nomor Hubungi
+contact.contact_expired,Contact has expired,Liên hệ đã hết hạn,ผู้ติดต่อหมดอายุ,Kontak tidak Aktif
+contact.appointment,Contact has an appointment at,Liên hệ có lịch hẹn gọi lại lúc,ติดต่อนัดหมายโทรกลับได้ที่,Kontak ada janji akan telepon kembali lain waktu
+contact.state,State,Trạng thái,สถานะ,Status
+contact.all_state,All State,Tất cả trạng thái,สถานะทั้งหมด,Semua status
+contact.fullname_phone_number,Fullname / Phone number,Họ tên / Số điện thoại,ชื่อ/หมายเลขโทรศัพท์,Nama/Nomor Telepon
+contact.product,Products,Sản phẩm,สินค้า,Produk
+contact.select_product,Select product,Chọn sản phẩm,เลือกสินค้า,Pilih produk
+contact.filter_more,More,Mở rộng,ดูเพิ่มเติม,Buka Besar
+contact.filter_less,Less,Thu gọn,เล็กลง,Perkecil
+contact.ads,Ads,Quảng cáo,โฆษณา,Iklan
+contact.select_file_upload,Choose file to upload,Chọn file,เลือกไฟล์,Pilih file
+contact.import_contact_error_file_column,File expect two column Phone and Name,File phải có 2 cột Phone và Name,ไฟล์ต้องมีโทรศัพท์และชื่อ 2 คอลัมน์,"File harus memiliki 2 kolom, Telepon dan Nama"
+contact.import_contact_error_file_has_not_row,File is empty,File trống,ไฟล์ว่างเปล่า ,File kosong 
+contact.import_contact_error_file_max_200_row,Max 200 rows,Tối đa 200 dòng,มากถึง 200 เส้น,Hingga 200 baris
+contact.invalid_phone,Invalid phone number,Số điện thoại không đúng định dạng,หมายเลขโทรศัพท์อยู่ในรูปแบบที่ไม่ถูกต้อง,Nomor telepon tidak dalam format yang benar
+contact.existed,Contact is existed,Số điện thoại đã tồn tại,มีหมายเลขโทรศัพท์อยู่แล้ว,Nomor telepon sudah ada di sistem
+contact.is_not_enough,The current number of contacts is not enough,Số lượng contact hiện tại không đủ,จำนวนผู้ติดต่อปัจจุบันไม่เพียงพอ,Jumlah kontak saat ini tidak cukup
+contact.download_import_template,Download csv template,Download csv mẫu import,ดาวน์โหลดตัวอย่างการนำเข้า csv,Download file contoh csv impor 
+contact.require_file,This file is not a csv file,File này không phải file csv,This file is not a csv file,This file is not a csv file
+contact.order_status,Order status,Trạng thái đơn hàng,สถานะการสั่งซื้อ,Order status
+contact.address,Address,Địa chỉ,ที่อยู่,alamat
+contact.return_lead,Return lead,Khách quay lại,กลับนำ,timbal balik
+contact.lead,Lead,Liên hệ,ตะกั่ว,memimpin
+contact.created_at,Created at,Ngày tạo,สร้างที่,dibuat di
+contact.required_file,You have to upload file contact,Bạn phải tải lên file liên hệ,You have to upload file contact,You have to upload file contact
+contact.list_of_related_orders,List of related orders,Danh sách các đơn hàng,List of related orders,List of related orders
+contact.noti_succ,Import successful,Thêm thành công ,Import successful,Import successful
+contact.reset_assign,Unassign,Thu hồi liên hệ,Unassign,Unassign
+contact.mark_as_spam,Mark as spam,Đánh dấu spam,Mark as spam,Mark as spam
+contact.remark,Remark,Đánh giá,Remark,Remark
+contact.spam,Spam,Spam,Spam,Spam
+contact.blanks,Blanks,Không spam,Blanks,Blanks
+contact-created-msg.success,Successful,Thêm liên hệ thành công,เพิ่มผู้ติดต่อเรียบร้อยแล้ว,Tambah Kontak Berhasil
+contact-created-msg.fail,Fail,Thêm liên hệ thất bại,เพิ่มผู้ติดต่อที่ล้มเหลว,Tambahkan kontak sudah gagal
+contact-detail.campaign,Campaign,Chiến dịch,แคมเปญ,Kampanye
+contact-detail.date,Date,Ngày tạo,วันที่สร้าง,Tanggal Pembuatan
+contact-detail.date_time,Date & time,Ngày giờ,วันและเวลา,Tanggal dan waktu
+contact-detail.status,Status,Trạng thái,สถานะ,Status
+contact-detail.created_by,Created by,Người thêm,สร้างโดย,Orang tambahan
+contact-detail.summary,Summary,Tổng quan,ภาพรวม,Gambaran
+contact-detail.key_field,Key Field,Thông tin,ข้อมูล,Informasi
+contact-detail.fullname,Fullname,Họ tên,ชื่อเต็ม,Nama lengkap
+contact-detail.phone,Phone number ,Số điện thoại,หมายเลขโทรศัพท์,Nomor telepon
+contact-detail.assigned_to,Assigned to,Phụ trách,ได้รับมอบหมายให้,Bertanggung jawab 
+contact-detail.stage,Contact State,Trạng thái,สถานะ,Status
+contact-detail.contact_state,Contact State,Trạng thái liên hệ,สถานะการติดต่อ,Status Kontak
+contact-detail.keyfield_source,Source,Nguồn,ที่มา,Sumber
+contact-detail.last_contact,Last Call At,Lần cuối liên hệ,ติดต่อครั้งสุดท้ายเมื่อ,Hubungi Terakhir 
+contact-detail.product,Product,Sản phẩm,สินค้า,Produk
+contact-detail.product_name,Name,Tên,ชื่อ,Nama
+contact-detail.product_supplier,Supplier,Nhà cung cấp,ผู้ผลิต,Pemasok
+contact-detail.product_source,Source,Nguồn,ที่มา,Sumber
+contact-detail.product_brand,Brand,Nhãn hiệu,ยี่ห้อ,Merek
+contact-detail.product_default_price,Default price,Giá,ราคา,Harga
+contact-detail.product_inventory,Inventory,Số tồn kho,สินค้าคงคลัง,Jumlah persediaan
+contact-detail.product_size,Size,Kích cỡ,ขนาด,Ukuran
+contact-detail.product_color,Color,Màu sắc,สี,Warna
+contact-detail.product_desc,Description,Mô tả,อธิบาย,Diskripsi
+contact-detail.product_pl,Search Product,Tìm kiếm sản phẩm,Search Product,Search Product
+contact-detail.activity,Activities,Hoạt động,กิจกรรม,Operasi
+contact-detail.add_event,Add event,Thêm sự kiện,เพิ่มกิจกรรม,Tambah lainnya
+contact-detail.added_by,Added by,Thêm bởi ,เพิ่มโดย,Ditambahkan oleh
+contact-detail.district,District,Quận/huyện,อำเภอ,Distrik
+contact-detail.province,Province,Tỉnh/thành phố,จังหวัด/เมือง,Provinsi/kota
+contact-detail.address_detail,Complete Address,Địa chỉ chi tiết,ที่อยู่โดยละเอียด,Alamat lengkap
+contact-detail.properties,Properties,Thuộc tính,คุณสมบัติ,Properti
+contact-detail.unit_price,Unit price,Giá đơn vị,ราคาต่อหน่วย,Harga satuan
+contact-detail.quantity,Quantity,Số lượng,จำนวนเงิน,Jumlah
+contact-detail.price,Price,Giá,ราคา,Harga
+contact-detail.select_property,Select property,Chọn thuộc tính,เลือกคุณสมบัติ,Pilih properti
+contact-detail.add_property,Add properties,Thêm thuộc tính,เพิ่มคุณสมบัติ,Tambahkan properti
+contact-detail.add_property_warning,All fields are required !,Bạn cần điển đầy đủ thông tin!,ต้องกรอกข้อมูลให้ครบ,Anda perlu tambah informasi lengkap!
+contact-detail.total_amount,Total amount,Tổng giá,ราคารวม,Total harga
+contact-detail.order_note,Note,Ghi chú đơn,หมายเหตุ,Catatan Pesanan
+contact-detail.cancel,Cancel,Huỷ,ยกเลิก,Batal
+contact-detail.finish,Finish,Lưu,บันทึก,Simpan
+contact-detail.property_total,Total,Tổng,รวม,Total
+contact-detail.event_note,Note,Ghi chú,หมายเหตุ,Catatan
+contact-detail.confirm_del_message,Are you sure to delete ?,Bạn có muốn xoá ?,คุณต้องการที่จะลบ?,Apakah Anda ingin menghapus?
+contact-detail.yes,Yes,Có,ใช่,Ya
+contact-detail.no,No,Không,ไม่ใช่,Tidak
+contact-detail.confirm_unassign_title,Do you want to unassign this user ? ,Bạn có muốn trả contact này về kho ?,คุณต้องการยกเลิกการมอบหมายผู้ใช้รายนี้หรือไม่,Apakah Anda ingin mengembalikan kontak ini ke gudang?
+contact-detail.appointment,Appointment Date,Lịch hẹn,ตารางนัดหมาย,Jadwal Janji Pengiriman
+contact-detail.my_contact,My contact,Khách hàng của tôi,ลูกค้าของฉัน,Pelanggan saya
+contact-detail.contact,Contact,Khách hàng,ลูกค้า,Pelanggan
+contact-detail.last_contact_never,Never,Chưa,ยัง,Belum
+contact-detail.confirm_change_message,Are you sure to do this ?,Bạn chắc chắn muốn thay đổi không ?,คุณแน่ใจว่าจะทำเช่นนี้?,Apakah Anda yakin ingin berubah?
+contact-detail.confirm_title,Confirm,Xác thực,ยืนยัน,Konfirmasi
+contact-detail.invoice,Invoice,Hóa đơn,บิล,Tagihan
+contact-detail.delivery_at,Delivery at,Ngày hẹn giao,วันที่จัดส่ง,Tanggal Janji pengiriman
+contact-detail.order_code,Order code,Mã đơn hàng,รหัสการสั่งซื้อ,Kode Pesanan
+contact-detail.product_detail,Product Detail,Chi tiết sản phẩm,รายละเอียดสินค้า,Informasi Produk
+contact-detail.strategy,Sale Strategy,Chiến lược bán hàng,กลยุทธ์การขาย,Strategi penjualan
+contact-detail.marketting_target,Marketing Target,Mục tiêu Marketing,เป้าหมายทางการตลาด,Tujuan Marketing
+contact-detail.question,Question,Câu hỏi,คำถาม,Pertanyaan
+contact-detail.answer,Answer,Trả lời,คำตอบ,Balasan
+contact-detail.edit,Edit,Sửa,แก้ไข,Perbaikan
+contact-detail.fqa,FAQ,Câu hỏi thường gặp,คำถามที่พบบ่อย,Pertanyaan yang sering diajukan
+contact-detail.add_fqa,New,Thêm mới,เพิ่มใหม่,Tambah baru
+contact-detail.popup_fqa_title,Add FAQ,Thêm câu hỏi thường gặp,คำถามที่พบบ่อยเพิ่มเติม,Pertanyaan yang lebih sering diajukan
+contact-detail.add,Add,Thêm mới,เพิ่มใหม่,Tambah baru
+contact-detail.select,Select,Chọn một giá trị,เลือกค่า,Pilih satu status
+contact-detail.delete,Delete,Xóa,ลบ,Menghapus
+contact-detail.note,Note,Ghi chú,บันทึก,Catatan
+contact-detail.quantity_must_in_range,Quantity must in range,Số lượng chỉ trong khoảng,ปริมาณต้องอยู่ในช่วง,Kuantitas hanya dalam sekitar
+contact-detail.invoice_list,Invoice List,Danh sách hóa đơn,รายการใบแจ้งหนี้ ,Daftar Tagihan
+contact_status.page_title,Contact Status,Cấu hình trạng thái khách hàng,กำหนดค่าสถานะลูกค้า,Status klien
+contact_status.code,Code,Mã,รหัส,Kode
+contact_detail.content,Content,Nội dung,เนื้อหา,kandungan
+contact_detail.time_calling,Time calling,Thời gian thực hiện cuộc gọi,Time calling,Time calling
+contact_detail.call_status,Last Event Status,Trạng thái cuộc gọi,Last Event Status,Last Event Status
+contact_detail.record,Record,Ghi âm,Record,Record
+contact-detail.vendor,Vendor,Đối tác,พันธมิตร,Pasangan
+contact-detail.gender,Gendor,Giới tính,เพศ,Seks
+contact-detail.male,Male,Nam,ชาย,Pria
+contact-detail.Female,Female,Nữ,หญิง,Perempuan
+contact-detail.Other,Other,Khác,อื่นๆ,Lain
+contact-detail.keep,Do not need to keep following,Không cần tiếp tục chăm sóc,Do not need to keep following,Do not need to keep following
+contact-detail.activity_logs,Activity hitories,Lịch sử thao tác,ประวัติการดำเนินงาน,Sejarah operasi
+contact-detail.select_group,Select a group,Chọn một nhóm,เลือกกลุ่ม,Pilih grup
+contact-detail.select_user,Select a user,Chọn một user,เลือกผู้ใช้,Pilih pengguna
+contact-detail.select_deliverydate,Select delivery date,Chọn ngày hẹn giao,เลือกวันจัดส่ง,Pilih tanggal pengiriman
+contact-detail.validate_time,Please select date time,Vui lòng chọn ngày giờ,กรุณาเลือกวันที่และเวลา,Silakan pilih tanggal dan waktu
+contact-detail.validate_delivery_at,Please select delivery at,Vui lòng chọn ngày hẹn giao,กรุณาเลือกวันที่จัดส่ง,Silakan pilih tanggal pengiriman
+contact-detail.validate_ad,Please select ads,Vui lòng chọn quảng cáo,โปรดเลือกโฆษณา,Silakan pilih iklan
+contact-detail.validate_status,Please select status,Vui lòng chọn trạng thái,กรุณาเลือกสถานะ,Silakan pilih status
+contact-detail.validate_address,Please input address,Vui lòng nhập địa chỉ,กรุณากรอกที่อยู่ของคุณ,Silakan masukkan alamat Anda
+contact-detail.validate_province,Please select province,Vui lòng chọn quận huyện,กรุณาเลือกอำเภอ,Silakan pilih distrik
+contact-detail.validate_city,Please select district,Vui lòng chọn tỉnh thành phố,กรุณาเลือกเมืองหรือจังหวัด,Silakan pilih kota atau provinsi
+contact-detail.validate_property,Please select property,Vui lòng chọn thuộc tính,กรุณาเลือกคุณสมบัติ,Silakan pilih properti
+contact-detail.validate_quantity,Please input quantity,Vui lòng nhập số lượng,กรุณากรอกจำนวน,Silakan masukkan jumlah
+contact-detail.validate_cancel_reason,Please select cancel reason,Vui lòng chọn lý do hủy,โปรดเลือกเหตุผลในการยกเลิก,Silakan pilih alasan pembatalan
+contact-detail.validate_other_reason,Please input content,Vui lòng nhập nội dung,กรุณาใส่เนื้อหา,Silakan masukkan kandungan
+contact-detail.validate_area,Please input area,Chọn khu vực,กรุณาใส่พื้นที่,Silakan masukkan area
+contact-detail.status_pl,Select status,Chọn trạng thái,เลือกสถานะ,Pilih status
+contact-detail.province_pl,Select province,Chọn tỉnh thành phố,เลือกเมืองและจังหวัด,Pilih kota dan provinsi
+contact-detail.district_pl,Select district,Chọn quận huyện,เลือกอำเภอ ,Pilih distrik 
+contact-detail.status_pl,Enter note,Nhập ghi chú,ใส่หมายเหตุ,Masukkan catatan
+contact-detail.cancel_reason_pl,Enter cancel reason,Nhập lý do hủy,ใส่เหตุผลในการยกเลิก,Masukkan alasan pembatalan
+contact-detail.content_pl,Enter content,Nhập nội dung,ใส่เนื้อหา,Impor kandungan
+contact-detail.delivery_pl,Select delivery at,Chọn ngày hẹn giao,เลือกวันจัดส่ง,Pilih tanggal pengiriman
+contact-detail.appointment_pl,Select appointment date,Chọn lịch hẹn,เลือกนัดหมาย,Pilih janji tanggal pengiriman
+contact-detail.address_pl,Enter address,Nhập địa chỉ,ใส่ที่อยู่,Masukkan alamat
+contact-detail.variant_pl,Select variant,Chọn biến thể,เลือกแบบต่างๆ,Pilih varian
+contact-detail.validate_note_length,The length of note field maximum 255 characters,Độ dài ghi chú tối đa 255 ký tự,ความยาวโน้ตสูงสุด 255 ตัวอักษร,Catatan Panjang maksimum 255 karakter
+contact-detail.validate_address_length,The length of address field maximum 255 characters,Độ dài địa chỉ tối đa 255 ký tự,ความยาวที่อยู่สูงสุด 255 ตัวอักษร, Alamat Panjang maksimum 255 karakter
+contact-detail.validate_content_length,The length of content field maximum 255 characters,Độ dài nội dung tối đa 255 ký tự,ความยาวเนื้อหาสูงสุด 255 ตัวอักษร,Kandungan Panjang maksimum 255 karakter
+contact-detail.err_message,does not belong to Ad,không thuộc quảng cáo,ไม่อยู่ในโฆษณา,Bukan dari iklan
+contact-detail.address,Address,Địa chỉ,ที่อยู่,Alamat
+contact-detail.area,Area,Vùng,ภูมิภาค,Wilayah
+contact-detail.courier,Courier,Đơn vị vận chuyển,หน่วยจัดส่ง,Ekspedisi
+contact-detail.history_call,Call history,Lịch sử cuộc gọi,Call history,Call history
+contact-detail.validate_courier,Please select courier,Vui lòng chọn đơn vị vận chuyển,กรุณาเลือกบริษัทขนส่ง,Silakan pilih Nama Ekspedisi
+contact-detail.add_cross_sku,Add gift,Chọn quà tặng kèm,Add gift,Add gift
+contact-detail.modal_add_sku.ok_text,Ok,Đồng ý,Ok,Ok
+contact-detail.modal_add_sku.cancel_text,Cancel,Đóng,Cancel,Cancel
+contact-detail.modal.ad_skus.name,Add gift to order,Thêm quà tặng vào đơn hàng,Add gift to order,Add gift to order
+contact-detail.modal.ad_skus.action.checkbox,Choice,Chọn,Choice,Choice
+contact-detail.table-cross-sku.heading,Gift,Quà tặng kèm,Gift,Gift
+contact-detail.table-cross-sku.column.product,Product,Sản phẩm,Product,Product
+contact-detail.table-cross-sku.column.quantity,Quantity,Số lượng,Quantity,Quantity
+contact-detail.table-cross-sku.column.unit_price,Unit price,Đơn giá,Unit price,Unit price
+contact-detail.table-cross-sku.column.total_amount,Price,Thành tiền,Price,Price
+order_status_cancelled.JUST_INQUIRING_ABOUT_THE_PRODUCT,Just inquiring about the product / Item price,Chỉ muốn tìm hiểu về sản phẩm/giá,แค่ต้องการเรียนรู้เกี่ยวกับสินค้า/ราคา,Hanya ingin tahu tentang produk/harga
+order_status_cancelled.PRICE_IS_EXPENSIVE,Price is expensive / Compared to other seller,Giá quá đắt (so sánh với các đơn vị bán hàng khác),ราคาแพงเกินไป (เมื่อเทียบกับผู้ขายรายอื่น),Harga terlalu mahal (dibandingkan dengan penjual lain)
+order_status_cancelled.BUDGET_ISSUE,Budget Issue / Dont have enough money,Không có tiền để mua hàng,ไม่มีเงินซื้อ,Tidak ada uang untuk membeli
+order_status_cancelled.NOT_INTERESTED,Not Interested / Not aware the product / Not put his No,Không có hứng thú về sản phẩm,ไม่สนใจสินค้า,Tidak tertarik pada produk
+order_status_cancelled.MY_RELATIVE_IS_NOT_INTERESTED,My Relative is not interested / Not approve,Vợ/người yêu không cho phép mua,ภรรยา/แฟนไม่ให้ซื้อ,Istri/pacar tidak boleh untuk membeli
+order_status_cancelled.ALREADY_BOUGHT_TO_ANOTHER_SELLER,Already bought to another seller/ In the Mall,Đã mua sản phẩm từ đơn vị bán hàng khác,ซื้อสินค้าจากผู้ขายรายอื่น,Sudah beli produk dari penjual lain
+order_status_cancelled.ALREADY_BOUGHT_TO_ANOTHER_ITEM,Already bought to another Item,Đã mua sản phẩm khác,ซื้อผลิตภัณฑ์อื่น,Sudah beli produk lain
+order_status_cancelled.WANT_ANOTHER_COLOR_OR_SIZE,Want another Color or Size,Muốn đổi sang Màu hoặc Size khác,ต้องการเปลี่ยนเป็นสีหรือขนาดอื่น,Ingin mengubah Warna atau Ukuran lain 
+order_status_cancelled.CHANGED_MIND,Changed mind,Đổi ý không muốn mua nữa,เปลี่ยนใจไม่อยากซื้อแล้ว,Berubah pikiran dan tidak mau beli lagi
+order_status_cancelled.BOGUS_BUYER,Bogus buyer,Bogus buyer,ผู้ซื้อปลอม,Pelanggan Palsu
+order_status_cancelled.LESS_18_YEARS_OLD_CANT_AFFORD_TO_BUY,< 18 years old cant afford to buy,Dưới 18 tuổi ko có điều kiện để mua,อายุต่ำกว่า 18 ปีไม่สามารถซื้อได้,Pelanggan bawah 18 tahun tidak memenuhi untuk membeli
+order_status_cancelled.OTHER,Other,Khác,อื่นๆ,Lain
+order_status_cancelled.CUSTOMER,By Customer,Do Khách Hàng,โดยลูกค้า,Oleh pelanggan
+order_status_cancelled.LBC,By LBC,Do Đơn Vị Vận Chuyển,เนื่องจากหน่วยขนส่ง, Oleh Eskpedisi
+order_status_cancelled.TLS,By Telesales,Do Telesales,โดย เทเลเซลล์,Oleh Telesales
+order_status_cancelled.ODZ,By ODZ,Do ODZ,โดย ODZ,Oleh ODZ
+order_status_cancelled.BY_ODZ,ODZ,Do ngoài vùng vận chuyển,โดย ODZ,Karenakan diluar wilayah pengiriman
+order_status_cancelled.OPERATION,By Operation,Do Vận Hành,เนื่องจากการดำเนินงาน,Oleh Operasi
+order_status_cancelled.CAN_NOT_REACH,Can not reach / Busy / Disconnected/ Ringing,Không thể liên lạc để gửi hàng,ติดต่อส่งสินค้าไม่ได้,Tidak dapat dihubungi untuk pengiriman
+order_status_cancelled.INVALID_NUMBER,Invalid Number,Số điện thoại sai,เบอร์โทรผิด,Nomor telepon salah
+order_status_cancelled.CHANGE_OF_MIND,Change of mind / Deny to receive / Refused to accept,Đổi ý; ko muốn nhận hàng,เปลี่ยนความคิด; ไม่อยากรับสินค้า,"Pelanggan mengubah pikiran,  tidak mau menerima barang"
+order_status_cancelled.PAYMENT_NOT_READY,Payment not ready,Không sẵn sàng để thanh toán,ไม่พร้อมจ่าย,Tidak mahu membayar
+order_status_cancelled.NOT_AT_HOME,Not at home / Office Closed / Consignee Out,Không có mặt để nhận hàng,ไม่พร้อมรับสินค้า,Pelanggan tidak di tempat untuk menerima barang
+order_status_cancelled.ITEM_NOT_THE_SAME_ADS,Item not the same with Ads,Sản phẩm khác với quảng cáo,สินค้าต่างจากโฆษณา,Produk berbeda dengan iklan
+order_status_cancelled.DELIVERY_DELAY,Delivery delay,Chuyển hàng bị trễ,จัดส่งล่าช้า,Pengiriman terlambat
+order_status_cancelled.NO_CALL_FROM_LBC,No call from LBC,Không thấy đơn vị vận chuyển liên lạc,ไม่พบหน่วยขนส่งติดต่อ,Tidak dapat hubingi dari ekspedisi
+order_status_cancelled.JUST_IN_QUIRING,Just inquiring / No confirmation / Cancelled order to telesales before,Chỉ quan tâm; chưa xác nhận mua / Đã hủy đơn với TLS,สนใจเท่านั้น; การซื้อที่ไม่ได้รับการยืนยัน / คำสั่งซื้อถูกยกเลิกด้วย telesale,Hanya tertarik; belum minat beli / Dibatalkan dengan TLS
+order_status_cancelled.INCOMPLETE_ADDRESS,Incomplete address,Địa chỉ ko đầy đủ,ที่อยู่ไม่ครบ,Alamatnya tidak lengkap
+order_status_cancelled.INCORRECT_ADDRESS,Incorrect address / name / phone number / date of delivery,Sai thông tin vận chuyển,ข้อมูลการจัดส่งไม่ถูกต้อง,Pengiriman salah alamat
+order_status_cancelled.WRONG_ITEM,Wrong item,Gửi sai sản phẩm,ส่งสินค้าผิด,Pengiriman salah Produk
+order_status_cancelled.DUPLICATE,Duplicate order,Đơn trùng,คำสั่งซ้ำ,Doble pesanan
+order_status_cancelled.reason,Reason,Lý do đổi trả,เหตุผลในการคืนสินค้า,Alasan retur
+stock_receipt.title,Stock Receipts,Nhập kho,ใบเสร็จสต็อค,Masuk stok
+stock_receipt.destination,Destination,Kho đích,คลังสินค้าปลายทาง,Gudang tujuan
+stock_receipt.courier,Courier,Đơn vị vận chuyển,หน่วยจัดส่ง,Pihak Eskpedisi
+stock_receipt.tracking_number,Tracking number,Mã vận đơn,รหัสใบตราส่งสินค้า,Kode pesanan
+stock_issue.title,Stock Issue,Xuất kho,ส่งออก,Ekspor
+stock_issue.error_cannot_change_status,Can't change status,Không thể chuyển trạng thái,เปลี่ยนสถานะไม่ได้,Tidak dapat mengubah status
+stock_detail.code,Stock Issue,Phiếu xuất,ใบส่งของ,Tagihan
+stock_issue_status.NEW,New,Mới,ใหม่,Baru
+stock_issue_status.PROCESSING,Processing,Đang xử lý,กำลังดำเนินการ,Pengolahan
+stock_issue_status.DONE,Done,Đã xuất,ส่งออก,Sudah ekspor
+stock_receipt_status.NEW,New,Mới,ใหม่,Baru
+stock_receipt_status.PROCESSING,Processing,Đang xử lý,กำลังดำเนินการ,Pengolahan
+stock_receipt_status.DONE,Done,Đã nhập,เข้าแล้ว,Masuk
+contact_status.description,Description,Mô tả,อธิบาย,Diskripsi
+call_status.page_title,Last Event Status,Cấu hình trạng thái cuộc gọi,กำหนดสถานะการโทร,Layar status panggilan
+call_status.code,Code,Mã,รหัส,Kode
+call_status.description,Description,Mô tả,อธิบาย,Diskripsi
+warehouse.confirm_delete_message,Are you sure to do this ?,Bạn chắc chắn muốn xóa không ?,คุณแน่ใจหรือว่าต้องการลบ?,Anda yakin ingin menghapus?
+warehouse.confirm_title,Confirm,Xác thực,ยืนยัน,Konfirmasi
+warehouse.code,Code,Mã kho,รหัสคลังสินค้า,Kode Gudang
+warehouse.name,Name,Tên kho,ชื่อคลังสินค้า,Nama gudang
+warehouse.type,Type,Loại kho,ประเภทคลังสินค้า,Jenis gudang
+warehouse.description,Description,Mô tả,อธิบาย,Diskripsi
+warehouse.address,Address,Địa chỉ kho,ที่อยู่คลังสินค้า,Alamat gudang
+warehouse.status,Status,Trạng thái kho,สถานะคลังสินค้า,Status gudang
+warehouse.update_warehouse,Update warehouse,Chỉnh sửa kho hàng,แก้ไขคลังสินค้า,Revisi Gudang
+warehouse.add_warehouse,Add warehouse,Thêm kho hàng,เพิ่มคลังสินค้า, Tambah Produk gudang
+warehouse.empty_records,Have no warehouse yet,Không tồn tại bản ghi nào,ไม่มีบันทึก,Tidak ada yang catatan
+warehouse.cancel,Cancel,Hủy,ยกเลิก,Batal
+warehouse.finish,Finish,Lưu,บันทึก,Simpan
+warehouse.no,No,Không,ไม่ใช่,Tidak
+warehouse.yes,Yes,Có,ใช่,Ada
+warehouse.select,Select,Chọn,เลือก,Memilih
+warehouse.PHYSICAL,Physical,Kho vật lý,คลังสินค้าทางกายภาพ,Gudang Fisik
+warehouse.inactive,Inactive,Không hoạt động,ไม่ใช้งาน,Tidak aktif
+warehouse.ACTIVE,Active,Hoạt động,ใช้งาน,Aktif
+warehouse.LOGICAL,Logical,Kho ảo,คลังสินค้าเสมือน,Gudang maya
+warehouse.empty_records,Have no contacts yet,Không tồn tại bản ghi nào,ไม่มีบันทึก,Tidak ada yang catatan
+warehouse.warehouse,Warehouse,Kho,คลังสินค้า,Gudang
+warehouse.title,Warehouse,Danh sách kho,รายการคลังสินค้า,Daftar gudang
+warehouse.stock,Stocks,Tồn kho,สินค้าคงคลัง,Inventaris
+warehouse.issue,Issues,Phiếu xuất,ใบส่งของ,Tagihan
+warehouse.receipt,Receipts,Phiếu nhập,ใบรับของ,Tagihan Masuk
+warehouse.permission,Permissions,Phân quyền,การกระจายอำนาจ,Desentralisasi
+warehouse.select_warehouse,Select warehouse,Chọn kho,เลือกคลังสินค้า,Pilih gudang
+warehouse.createdBy,Created by,Người tạo,ผู้สร้าง,Orang dibuat
+warehouse.product_code,Product code,Mã sản phẩm,รหัสสินค้า,Kode Produk
+warehouse.joined_at,Joined Time,Vào lúc,เข้าร่วมเวลา,Pada
+warehouse.vendor,Vendor,Đối tác,พันธมิตร,Pasangan
+warehouse.name_length,The length of name field maximum 160 characters,Độ dài tên tối đa 160 ký tự,ชื่อยาวสูงสุด 160 ตัวอักษร,Nama Panjang maksimum 160 karakter
+warehouse.address_length,The length of address field maximum 255 characters,Độ dài địa chỉ tối đa 255 ký tự,ความยาวที่อยู่สูงสุด 255 ตัวอักษร,Alamat Panjang  maksimum 255 karakter
+warehouse.description_length,The length of description field maximum 255 characters,Độ dài mô tả tối đa 255 ký tự,ความยาวคำอธิบายสูงสุด 255 ตัวอักษร, Deskripsi Panjang maksimum 255 karakter
+warehouse.name_code,Name/Code,Tên/Mã,ชื่อ/รหัส,Nama / kode
+warehouse.created_at,Created at,Ngày tạo,วันที่สร้าง,Tanggal bikin
+warehouse.sku_code_pl,Enter SKU Code,Nhập vào mã SKU,Enter SKU Code,Enter SKU Code
+warehouse.sku_code,SKU code,Mã SKU,SKU code,SKU code
+warehouse.pro_name,Product name,Tên sản phẩm,Product name,Product name
+warehouse.pro_name_pl,Enter product name,Nhập vào tên sản phẩm,Enter product name,Enter product name
+warehouse.selling,On sell,Đang bán,On sell,On sell
+warehouse.stop_selling,Stop selling,Dừng bán,Stop selling,Stop selling
+warehouse.stock_shortage,Lack of export goods,Thiếu hàng xuất,Lack of export goods,Lack of export goods
+warehouse.almost_over,Nearly sold out,Sắp hết hàng,Nearly sold out,Nearly sold out
+warehouse.sold_out,Out of stock,Hết hàng,Out of stock,Out of stock
+warehouse.empty,Not yet in stock,Chưa nhập kho,Not yet in stock,Not yet in stock
+warehouse.list_product,Products,Danh sách sản phẩm,Products,Products
+warehouse.sku_combo,Combos,Danh sách combo,Combos,Combos
+warehouse.sku_combo_search,Search combos,Tìm kiếm combos,Search combos,Search combos
+warehouse.channel_sale,Channel sales,Kênh bán hàng,Channel sales,Channel sales
+warehouse.waiting_export,Waiting export,Chờ xuất,Waiting export,Waiting export
+warehouse.waiting_import,Waiting import,Chờ nhập,Waiting import,Waiting import
+warehouse.availability,Availability,Tồn khả dụng,Availability,Availability
+warehouse.total_cost,Total cost,Tổng chi phí,Total cost,Total cost
+warehouse.sale_price,Sale price,Giá bán,Sale price,Sale price
+order.campaign,Campaign,Chiến dịch,แคมเปญ,Kampanye
+order.customer_name,Customer name,Khách hàng,ลูกค้า,Pelanggan
+order.customer_phone,Phone number,Số điện thoại,หมายเลขโทรศัพท์,Nomor telepon
+order.total_amount,Total amount,Tổng tiền,จำนวนเงินทั้งหมด,Jumlah total
+order.delivery_case_filter,Order with/without delivery case,Đơn hàng có/không có delivery case,Order with/without delivery case,Order with/without delivery case
+order.delivery_date,Delivery date,Ngày hẹn giao,วันที่จัดส่ง,Tanggal janji pengiriman
+order.address,Address,Địa chỉ,ที่อยู่,Alamat
+order.product,Product,Sản phẩm,สินค้า,Produk
+order.created_at,Created at,Ngày tạo,วันที่สร้าง,Tanggal dibuat
+order.empty_list,Have no orders,Không có đơn hàng,ไม่มีคำสั่งซื้อ,Tidak ada pesanan
+order.reset_filter,Reset filter,Xóa đk lọc,ลบเงื่อนไขตัวกรอง,Hapus filter
+order.code,Code,Mã,รหัส,Kode
+order.province,City,Thành phố,เมือง,Kota
+order.district,Province,Quận/Huyện,อำเภอ,Distrik
+order.create_stock,Would you like to creat a stock issue from,Bạn có muốn tạo phiếu xuất từ,คุณต้องการสร้างใบส่งของจาก,Apakah Anda ingin membuat tagihan dari
+order.valid_stock,valid orders,đơn hàng hợp lệ?,คำสั่งซื้อที่ถูกต้อง?,pesanan yang valid?
+order.create_stock_error,Stock issue could not be created due to invalid order,Không thể tạo phiếu xuất do đơn hàng không hợp lệ,ไม่สามารถสร้างใบส่งของได้เนื่องจากคำสั่งซื้อที่ไม่ถูกต้อง,Anda Tidak dapat membuat faktur karena pesanan tidak valid
+order.page_title,Orders,Đơn hàng,รายการสั่งซื้อ,Daftar Pesanan
+order.check_all,Selected all,Chọn tất cả,เลือกทั้งหมด,Pilih Semua
+order.prevent_update_previous_status,You can't update back to previous status,Không thể cập nhật ngược trạng thái,ไม่สามารถอัปเดตกลับไปเป็นสถานะก่อนหน้าได้,Anda Tidak dapat membalikkan status
+order.source,Source,Nguồn,ที่มา,Sumber
+order.delivery_fee,Delivery fee,Phí vận chuyển,ค่าขนส่ง,Biaya Pengiriman
+order.delivery_case,Delivery case,Delivery case,กรณีจัดส่ง,Delivery case
+order.list,Order list,Đơn hàng,รายการสั่งซื้อ,Order list
+order.export_order_for_carrier_unit,Export for warehouse,Xuất file cho giao vận,ส่งออกไฟล์สำหรับจัดส่ง,Ekspor file untuk pengiriman
+order.sku_code,SKU code,Mã SKU,SKU code,SKU code
+order.payment,Payment,Thanh toán,Payment,Payment
+order.detail_info,Order Information,Thông tin đơn hàng,Order Information,Order Information
+order.order_note,Order note,Ghi chú đơn hàng,Order note,Order note
+order.cancel_reason,Cancel Reason,Lý do hủy đơn hàng,Cancel Reason,Cancel Reason
+order.cancel_note,Cancel note,Ghi chú lý do hủy đơn,Cancel note,Cancel note
+order.product_detail,Order detail,Chi tiết đơn hàng,Order detail,Order detail
+order.create_order,Create Order,Tạo đơn hàng,Create Order,Create Order
+order.postal_code,Postal Code,Mã bưu chính,Postal Code,Postal Code
+order.enter_phone,Enter phone,Nhập số điện thoại người nhận,Enter phone,Enter phone
+order.enter_address,Enter complete address,Nhập địa chỉ giao hàng,Enter complete address,Enter complete address
+order.enter_postal_code,Enter postal code,Nhập mã bưu chính,Enter postal code,Enter postal code
+order.discount,Discount,Chiết khấu,Discount,Discount
+order.order_type,Order type,Loại đơn hàng,Order type,Order type
+order.order_type_pl,Select order type,Chọn loại đơn hàng,Select order type,Select order type
+order.list_errors,Errors,Lỗi,Errors,Errors
+order.download_excel,Download Excel,Tải file excel,Download Excel,Download Excel
+order.sync_to_pos,Sync to POS,Sync to POS,Sync to POS,Sync to POS
+order.order_ref_code,Order Ref Code,Order Ref Code,Order Ref Code,Order Ref Code
+order.order_reference,Order Reference,Order Reference,Order Reference,Order Reference
+order.input_marketer,Select Marketer,Select Marketer,Select Marketer,Select Marketer
+order.sales,Sales,Sales,Sales,Sales
+order.input_sales,Select Sales,Select Sales,Select Sales,Select Sales
+order_pay.COD,COD,Trả khi nhận hàng,COD,COD
+order_pay.ADVANCE_PAYMENT,Prepayment,Thanh toán trước,Prepayment,Prepayment
+order_pay.DEFERRED_PAYMENT,Pay later,Thanh toán sau,Pay later,Pay later
+order_detail.page_title,Order,Chi tiết đơn hàng,รายละเอียดการสั่งซื้อ,Detail pesanan
+order_detail.status,Status,Trạng thái,สถานะ,Status
+order_detail.created_by,Created by,Tạo bởi,สร้างโดย,Dibuat oleh
+order_detail.created_time,Created Time,Ngày tạo,วันที่สร้าง,Tanggal dibuat
+order_detail.product,Product,Sản phẩm,สินค้า,Produk
+order_detail.summary,Summary,Tổng quan,ภาพรวม,gambaran ikhtisar
+order_detail.product_name,Name,Tên,ชื่อ,Nama
+order_detail.properties,Properties,Thuộc tính,คุณสมบัติ,Properti
+order_detail.address_detail,Complete Address,Địa chỉ chi tiết,ที่อยู่โดยละเอียด,Alamat lengkap
+order_detail.district,District,Quận/huyện,อำเภอ,Distrik
+order_detail.city,Province,Tỉnh/thành phố,จังหวัด/เมือง,Provinsi/kota
+order_detail.contact,Contact,Khách hàng,ลูกค้า,Pelanggan
+order.price_gt_0,Price must be greater than 0,Giá tiền phải lớn hơn 0,Price must be greater than 0,Price must be greater than 0
+order_detail.price,Price,Giá,ราคา,Harga
+order.quantity_gt_0,Quantity must be greater than 0,Số lượng phải lớn hơn 0,Quantity must be greater than 0,Quantity must be greater than 0
+order_detail.quantity,Quantity,Số lượng,จำนวน,Jumlah
+order_detail.total,Total,Thành tiền,เป็นเงิน,Total Pembayaran
+order_detail.fullname,Fullname,Thành tiền,ชื่อลูกค้า,Nama Pelanggan
+order_detail.phone,Phone,SDT,หมายเลขโทรศัพท์,SDT
+order_detail.address,Address,Địa chỉ,ที่อยู่,Alamat
+order_detail.note,Note,Ghi chú,หมายเหตุ,Catatan
+order_detail.total_amount,Total amount,Tổng tiền,จำนวนเงินทั้งหมด,Total Pembayaran
+order_detail.header,Orders,Đơn hàng,คำสั่งซื้อ ,Pesanan
+order_detail.confirm_del_message,Are you sure to delete ?,Bạn có muốn xoá ?,คุณต้องการที่จะลบ?,Apakah Anda ingin menghapus?
+order_detail.no,No,Không,ไม่ใช่,Tidak
+order_detail.yes,Yes,Có,ใช่,Ada
+order_detail.back,Back,Quay lại,Back,Back
+order_detail.ok,Ok,Đồng ý,ตกลง,Setuju
+order_detail.add_property,Add properties,Thêm thuộc tính,เพิ่มคุณสมบัติ,Tambahkan atribut
+order_detail.reason,Reason,Lý do hủy,เหตุผลในการยกเลิก,Alasan pembatalan
+order_detail.add_reason,Add Reason,Thêm lý do,เหตุผลเพิ่มเติม,Alasan lainnya
+order_detail.select_property,Select property,Chọn thuộc tính,เลือกคุณสมบัติ,Pilih atribut
+order_detail.shipping,Shipping,Vận chuyển,ขนส่ง,Pengiriman
+order_detail.carrier,Carrier,Đối tác,พันธมิตร,Pasangan
+order_detail.tracking_number,Tracking number,Mã vận đơn,รหัสใบตราส่งสินค้า,Kode pesanan
+order_detail.shipping_fee,Temporary shipping fee,Phí vận chuyển tạm tính,ค่าขนส่งชั่วคราว,Biaya pengiriman sementara
+order_detail.ads,Ads,Quảng cáo,โฆษณา,iklan
+order_detail.tooltip,View more!,Xem thêm,ดูเพิ่มเติม,lihat lebih banyak
+order_detail.due_date,Due Date,Ngày hẹn giao,วันที่จัดส่ง,Tanggal janji pengiriman
+order_detail.ads,Ads,Nguồn,ที่มา,Sumber
+order_detail.package_type,Package Size,Kích thước gói hàng,ขนาดบรรจุ,Ukuran paket
+order_detail.temp_total_amount,Temporary total amount,Tổng tiền tạm tính,เงินทั้งหมดชั่วคราว,Jumlah uang sementara
+order_detail.tab_activity,Activities histories,Lịch sử hành động,ประวัติการดำเนินการ,Sejarah operasi
+order_detail.loadmore,Load More,Xem thêm,ดูเพิ่มเติม,lihat lebih banyak
+order_detail.btn_create_exchange,Create exchange order,Tạo đơn hàng đổi trả,สร้างใบสั่งส่งคืน,Dibuat pesanan retur
+order_detail.order_exchange_confirm_title,Do you want to make an exchange order from the order?,Bạn có muốn tạo đơn hàng đổi trả từ đơn hàng này không?,คุณต้องการสร้างใบสั่งส่งคืนจากคำสั่งซื้อนี้หรือไม่?,Apakah Anda ingin membuat barang retur dari pesanan ini?
+order_detail.order_exchange_confirm_payment,This order has paid yet?,Đơn hàng này đã thanh toán tiền hay chưa?,คำสั่งซื้อนี้ได้รับการชำระเงินแล้วหรือไม่?,Apakah pesanan ini sudah dibayar atau belum?
+order_detail.paid,Paid,Đã thanh toán,ชำระแล้ว,Sudah bayar
+order_detail.unpaid,Unpaid,Chưa thanh toán,ยังไม่ได้ชำระ,Belum bayar
+order_detail.shipping_address,Shipping Information,Thông tin giao hàng,ที่อยู่สำหรับการจัดส่ง,Alamat pengiriman
+order_detail.added_to_stock_issue,Order has been added to the stock issue,ไม่สามารถสร้างใบสำคัญส่งออกได้เนื่องจากคำสั่งซื้อที่ไม่ถูกต้อง,เพิ่มคำสั่งซื้อในใบสำคัญส่งออกแล้ว,Pesanan sudah tambahkan ke tagihan pengiriman
+order_detail.area,Area,Vùng,ภูมิภาค,Wilayah
+order_detail.courier,Courier,Đơn vị vận chuyển,หน่วยจัดส่ง, Pihak Ekspedisi
+order_detail.total_payment,Total payment,Tổng tiền thanh toán,ชำระเงินทั้งหมด,Total payment
+order_detail.discount,Discount,Giảm giá,Discount,Discount
+order_detail.order_discount,Order Discount,Giảm giá,Order Discount,Order Discount
+order_detail.payment_info,Payment information,Thông tin thanh toán,Payment information,Payment information
+order_detail.pre_paid, Pre-paid,Khách đã trả trước,Pre-paid,Pre-paid
+order_detail.amount_pay,Amount to pay,Số tiền khách phải trả,Amount to pay,Amount to pay
+order_detail.cod_amount,COD Amount,Số tiền COD khách đã trả,COD Amount,COD Amount
+order_detail.payment_type,Payment Type,Loại thanh toán,Payment Type,Payment Type
+order_detail.m28_order_code,M28 Order Code,Mã đơn M28,M28 Order Code,M28 Order Code
+order_ss.WAITING_INSPECTION,Waiting inspection,Chờ chọn kho,Waiting inspection,Waiting inspection
+order_ss.WAITING_CONFIRM,Waiting confirm,Chờ xác nhận,Waiting confirm,Waiting confirm
+order_ss.WAITING_PROCESSING,Waiting processing,Chờ xử lý,Waiting processing,Waiting processing
+order_ss.WAITING_PICKING,Waiting picking,Chờ nhặt hàng,Waiting picking,Waiting picking
+order_ss.WAITING_PACKING,Waiting packing,Chờ đóng gói,Waiting packing,Waiting packing
+order_ss.WAITING_DELIVERY,Waiting delivery,Chờ giao hàng,Waiting delivery,Waiting delivery
+order_ss.DELIVERING,Delivery,Đang giao hàng,Delivery,Delivery
+order_ss.DELIVERED,Delivered,Đã giao hàng,Delivered,Delivered
+order_ss.CANCELED,Canceled,Đã hủy,Canceled,Canceled
+order_ss.RETURN,Return,Sẽ trả hàng hoặc đang trả hàng,Return,Return
+order_ss.RETURN_COMPLETED,Return completed,Đã trả hàng,Return completed,Return completed
+order_ss.FAILED_DELIVERY,Failed delivery,Giao hàng lỗi,Failed delivery,Failed delivery
+order_payment_ss.UNPAID,Unpaid,Chưa thanh toán,Unpaid,Unpaid
+order_payment_ss.PAID,Paid,Đã thanh toán,Paid,Paid
+sidebar.dashboard,Dashboard,Trang chủ,หน้าแรก,Ruang halaman
+sidebar.logout,Logout,Đăng xuất,ออกจากระบบ,Keluar
+sidebar.product,Product,Sản phẩm,สินค้า,Produk
+sidebar.customer_contact,Contacts,Số liên hệ,เบอร์ติดต่อ,Nomor hubungi
+sidebar.setting,Setting,Cài đặt,การตั้งค่า,Pengaturan
+sidebar.contact_status,Contact Status,Trạng thái khách hàng,สถานะลูกค้า,Status Pelanggan
+sidebar.contact_detail,Contact Detail,Chi tiết khách hàng tiềm năng,Contact Detail,Contact Detail
+sidebar.inventory,Inventory,Quản lý kho,การจัดการสินค้าคงคลัง,Manajemen persediaan
+sidebar.products,Products,Sản phẩm,สินค้า,Produk
+sidebar.supplier,Supplier,Nhà cung cấp,ผู้ผลิต,pemasok
+sidebar.transport,Transport,Vận chuyển,ขนส่ง,Ekspedisi
+sidebar.call_status,Last Event Status,Trạng thái cuộc gọi,สถานะการโทร,Status panggilan
+sidebar.warehouse,Warehouse,Kho hàng,คลังสินค้า,Gudang
+sidebar.stock_receipt,Stock issue,Nhập kho,ใส่สต็อก,Masuk stok
+sidebar.campaign,Campaign,Chiến dịch,แคมเปญ,Kampanye
+sidebar.order,Orders,Đơn hàng,คำสั่งซื้อ,Pesanan
+sidebar.stock,Stocks,Danh sách hàng tồn,รายการสินค้าคงคลัง,Daftar inventaris 
+sidebar.issues,Issues,Danh sách phiếu xuất,รายการใบส่งของ,Daftar formulir ekspor
+sidebar.receipts,Receipts,Danh sách phiếu nhập,รายการใบรับของ,Daftar formulir masuk
+sidebar.users,Users,Nhân viên,พนักงาน,Staf
+sidebar.groups,Groups,Nhóm nhân viên,กลุ่มพนักงาน,Grup staf
+sidebar.all_order,All Orders,Tất cả đơn hàng,คำสั่งซื้อทั้งหมด,Semua Pesanan
+sidebar.all_contact,All Contacts,Tất cả liên hệ,ติดต่อทั้งหมด,Semua kontak
+sidebar.vendor,Vendors,Tất cả đối tác,ผู้ขาย,Vendors
+sidebar.add_vendor,Add vendor,Thêm mới đối tác,เพิ่มผู้ขาย,Add vendor
+sidebar.detail_vendor,Staffs,Nhân viên,รายละเอียดผู้ขาย,Staffs
+sidebar.subscriber,Subscribers,Danh sách khách hàng,ลูกค้า,Subscribers
+sidebar.payment_statement,Payment Statement,Phiếu kết toán,Payment Statement,Payment Statement
+sidebar.package,Inbound Shipment,Kiện nhập,Inbound Shipment,Inbound Shipment
+sidebar.setting,Setting,Cài đặt,Setting,Setting
+courier_setting.title,Courier setting,Cài đặt đơn vị vận chuyển,Carrier setting,Courier setting
+courier_setting.description,Choose a shipping company that will ship your order to the customer,Lựa chọn đơn vị vận chuyển sẽ vận chuyển đơn hàng của bạn đến khách hàng,Choose a shipping company that will ship your order to the customer,Choose a shipping company that will ship your order to the customer
+courier_setting.required,You must be choose courier,Bạn phải chọn đơn vị vận chuyển,You must be choose courier,You must be choose courier
+payment_statement.title,Payment Statement,Danh sách phiếu kết toán,Payment Statement,Payment Statement
+payment_statement.code,Code,Mã phiếu,Code,Code
+payment_statement.vendor,Vendor,Vendor,Vendor,Vendor
+payment_statement.createdBy,Created By,Người tạo,Created By,Created By
+payment_statement.status,Status,Trạng thái,Status,Status
+payment_statement.cycle,Period,Chu kỳ,Period,Period
+payment_statement.creation_time,Created At,Thời gian tạo,Created At,Created At
+payment_statement.filter,Filter,Lọc,Filter,Filter
+payment_statement.clear,Clear all filters,Xóa bộ lọc,,Clear all filters
+payment_statement.add,Create Payment Statement,Thêm mới kết toán,Create,Create
+payment_statement.code_filter,Search code,Tìm mã phiếu,Search code,Tìm mã phiếu
+payment_statement.vendor_filter,Select vendor,Tìm vendor,Select vendor,Select vendor
+payment_statement.status_filter,Select status,Tìm trạng thái,Select status,Select status
+payment_statement.vendor_pl,Select vendor,Chọn đối tác,Select vendor,Select vendor
+payment_statement.currency,Currency Unit (Original/ Equivalent),Đơn vị tiền tệ (Nguyên tệ/ Chuyển đổi),Currency Unit (Original/ Equivalent),Currency Unit (Original/ Equivalent)
+payment_statement.currency_pl,Select currency unit,Chọn đơn vị tiền tệ,Select currency unit,Select currency unit
+payment_statement.type,Type,Loại,Type,Type
+payment_statement.amount,Equivalent Currency,Số tiền chuyển đổi,Equivalent Currency,Equivalent Currency
+payment_statement.original,Original Currency,Số tiền nguyên tệ,Original Currency,Original Currency
+payment_statement.unit_original,Original Currency Unit,Đơn vị nguyên tệ,Original Currency Unit,Original Currency Unit
+payment_statement.unit_equivalent,Equivalent Currency Unit,Đơn vị chuyển đổi,Equivalent Currency Unit,Equivalent Currency Unit
+payment_statement.convert,Equivalent Currency,Số tiền chuyển đổi,Equivalent Currency,Equivalent Currency
+payment_statement.finance,Finance in the period,Tài chính trong kỳ,Finance in the period,Finance in the period
+payment_statement.file,Attachment,File đính kèm,Attachment,Attachment
+payment_statement.upload,Select file,Chọn file,Select file,Select file
+payment_statement.exceed,File must be less than 10MB,File phải nhỏ hơn 10MB,File must be less than 10MB,File must be less than 10MB
+payment_statement.edit,Update Payment Statement,Chỉnh sửa tổng hợp kết toán,Update Payment Statement,Update Payment Statement
+payment_statement.period,Period,Chu kỳ,Period,Period
+payment_statement.require_file,This file is not a valid file,File này không hợp kệ,This file is not a valid file,This file is not a valid file
+payment_statement.unit,VND,VNĐ,VND,VND
+payment_statement.detail,Payment Statement Detail,Chi tiết phiếu kết toán,Payment Statement Detail,Payment Statement Detail
+payment_state.file,File,File,File,File
+type_fee.cod_revenue,COD revenue ,Doanh thu COD,COD revenue ,COD revenue 
+type_fee.shipping_fee,Shipping fee,Chi phí vận chuyển,Shipping fee,Shipping fee
+type_fee.total_service_fee,Total service fee (3) = (3.1)+(3.2)+(3.3)+(3.4),Chi phí dịch vụ Vela (3) = (3.1)+(3.2)+(3.3)+(3.4),Total service fee (3) = (3.1)+(3.2)+(3.3)+(3.4),Total service fee (3) = (3.1)+(3.2)+(3.3)+(3.4)
+type_fee.warehouse_fee,Warehouse fee,Dịch vụ xử lý kho vận,Warehouse fee,Warehouse fee
+type_fee.telesale_fee,Telesales fee,Dịch vụ chốt đơn,Telesales fee,Telesales fee
+type_fee.payment_reconciliation_fee,Payment reconciliation fee,Dịch vụ đối soát thanh toán,Payment reconciliation fee,Payment reconciliation fee
+type_fee.vendor_revenue,Vendor revenue (4) = (1)-(2)-(3),Chi phí trả lại cho vendor (4) = (1)-(2)-(3),Vendor revenue (4) = (1)-(2)-(3),Vendor revenue (4) = (1)-(2)-(3)
+type_fee.cod_advance_fee,COD advance fee,Chi phí dịch vụ tạm ứng COD,COD advance fee,COD advance fee
+payment_statement.request,Request,Yêu cầu,Request,Request
+payment_statement.waiting_to_accept,Waiting for accept,Chờ xác nhận,Waiting for accept,Waiting for accept
+payment_statement.reject,Reject,Từ chối,Reject,Reject
+payment_statement.accept,Accept,Chấp nhận,Accept,Accept
+payment_statement.paid,Paid,Đã thanh toán,Paid,Paid
+payment_statement.completed,Completed,Hoàn thành,Completed,Completed
+error.login failed,Wrong username/email or password. Please try again ,Tên đăng nhập/email hoặc mật khẩu không chính xác,ชื่อผู้ใช้/อีเมลหรือรหัสผ่านไม่ถูกต้อง,Nama pengguna/email atau kata sandi salah
+error.Internal Server Error,You have encountered unexpected error. Please refresh website or call us if the problem is still there.,Hệ thống đang gặp sự cố. Vui lòng tải lại trang hoặc liên hệ với kỹ thuật nếu vấn đề còn tồn tại,ระบบกำลังประสบปัญหา โปรดโหลดหน้านี้ซ้ำหรือติดต่อฝ่ายเทคนิคหากปัญหายังคงมีอยู่,Sistem sedang mengalami masalah. Silakan muat ulang atau hubungi teknis jika ada masalah 
+error.Authorization Required,Your session is expired. Please sign in,Phiên đăng nhập của bạn đã hết hạn. Vui lòng đăng nhập lại,เซสชั่นการเข้าสู่ระบบของคุณหมดอายุแล้ว กรุณาเข้าสู่ระบบอีกครั้ง,Sesi login Anda tidak valid. Silakan masuk lagi
+error.Access Denied,You do not have permission,"Bạn không được cấp quyền cho chức năng này, vui lòng liên hệ quản trị để được hỗ trợ",คุณไม่ได้รับอนุญาตสำหรับฟังก์ชันนี้ โปรดติดต่อผู้ดูแลระบบเพื่อขอรับการสนับสนุน,"Anda tidak diizinkan untuk fungsi ini, silakan hubungi admin untuk mendapatkan dukungan"
+error.oops,Oops. Something wrong happened. Please refresh the website or contact with our technical support team if the problem is still there.,Có lỗi xảy ra. Vui lòng tải lại trang hoặc liên hệ với kỹ thuật nếu vấn đề còn tồn tại,เกิดข้อผิดพลาด โปรดโหลดหน้านี้ซ้ำหรือติดต่อฝ่ายเทคนิคหากปัญหายังคงมีอยู่,Kesalahan terjadi. Silakan muat ulang atau hubungi teknis jika ada masalah
+error.cannot empty,Cannot be empty!,Không được để trống!,ไม่สามารถเว้นว่างได้!,Tidak boleh dibiarkan kosong!
+error.phone_length,Phone length is incorrect,Độ dài số điện thoại không đúng,ความยาวหมายเลขโทรศัพท์ไม่ถูกต้อง,Panjang nomor telepon salah
+error.phone_pattern,Wrong phone format,Sai định dạng số điện thoại,รูปแบบหมายเลขโทรศัพท์ไม่ถูกต้อง,Format nomor telepon salah
+error.error404,The page you are trying to access does not exist,Trang bạn truy cập không tồn tại,ไม่มีหน้าที่คุณเยี่ยมชม,Halaman yang Anda masuk tidak ada
+error.not_found,Oops! Page not found,Rất tiếc! Không tìm thấy trang,ขอโทษ! ไม่พบหน้านี้,Maaf! halaman tidak ditemukan
+error.contact_name_length,Contact name length is incorrect,Độ dài tên liên hệ không đúng,ความยาวของชื่อผู้ติดต่อไม่ถูกต้อง,Jumlah angka kontak salah
+error.appointment,Re-input appointment date,Nhập lại lịch hẹn gọi,กรอกวันที่นัดหมายอีกครั้ง,Masukkan jadwal kembali untuk panggilan
+error.select_carrier,You haven't select carrier,Bạn chưa chọn đơn vị vận chuyển,คุณยังไม่ได้เลือกหน่วยจัดส่ง,Anda belum memilih Pihak pengiriman
+error.select_order,You haven't select order,Bạn chưa chọn đơn,คุณยังไม่ได้เลือกคำสั่งซื้อ,Anda belum memilih pesanan
+error.length_255,Max length is 255 characters,Tối đa 255 ký tự,สูงสุด 255 ตัวอักษร,Hingga 255 karakter
+error.length_160,Max length is 160 characters,Tối đa 160 ký tự,สูงสุด 160 ตัวอักษร,Hingga 160 karakter
+error.not_url,Please enter the true format of url,Vui lòng nhập đúng định dạng dường dẫn,กรุณากรอกรูปแบบลิงค์ที่ถูกต้อง,Harap masukkan betul format yang benar
+error.product_is_not_active,Product is not active,Sản phẩm chưa được kích hoạt,สินค้ายังไม่ได้เปิดใช้งาน,Produk belum diaktifkan
+error.access_denied_update_contact_address,Access denied for update contact address,Không có quyền chỉnh sửa địa chỉ,ไม่อนุญาตให้แก้ไขที่อยู่,Anda tidak ada izin untuk mengedit alamat
+loading.loading,Loading,Đang tải,กำลังโหลด,Memuat
+network.network,No network connection,Không có tín hiệu mạng Internet,ไม่มีสัญญาณอินเทอร์เน็ต,Tidak ada sinyal internet
+message.notification,Notification,Thông báo,การแจ้งเตือน,Pemberitahuan
+error.error403,Access Denied,Truy cập bị từ chối,การเข้าถึงถูกปฏิเสธ,Akses ditolak
+message.success,Successful,Thành công,สำเร็จ,Berhasil
+message.fail,Failure,Không thành công,ไม่สำเร็จ,Gagal
+message.add_event_success,Successful,Thêm sự kiện thành công,เพิ่มเหตุการณ์สำเร็จ,Tambah yang sukses
+message.code_error,This code existed,Mã kho đã tồn tại,มีรหัสคลังสินค้าอยู่แล้ว,Kode ada di gudang
+message.add_event_fail,Failure,Thêm sự kiện thất bại,เพิ่มเหตุการณ์ไม่สำเร็จ,Tambah yang kegagalan
+message.warning_quantity,Please enter a quantity to greater than 0,Please enter a quantity to greater than 0,โปรดป้อนปริมาณให้มากกว่า 0,Harap masukkan jumlah yang besar lebih dari 0
+message.warning_empty,Please do not empty,Vui lòng không để trống,โปรดอย่าเว้นว่างไว้,Tolong jangan biarkan kosong
+message.warning_checking,Please do not enter special characters,Vui lòng không nhập các ký tự đặc biệt,กรุณาอย่าใส่อักขระพิเศษ,Tolong jangan masukkan karakter khusus
+message.warning_characters,Please enter 11 or more characters,Vui lòng nhập từ 11 ký tự trở lên,โปรดป้อนอักขระ 11 ตัวขึ้นไป,Silakan masukkan lebih dari 11 karakter 
+message.warning_quantity_min,Please enter a number that is greater than or equal to,Please enter a number that is greater than or equal to,โปรดป้อนตัวเลขที่มากกว่าหรือเท่ากับ,Silakan masukkan angka yang lebih besar atau sama 
+message.warning_total_quantity,Total smaller,Total smaller,รวมเล็กลง,Total lebih kecil
+message.warning_quantity_max_total,Total quantity must in range,Total quantity must in range,ปริมาณทั้งหมดต้องอยู่ในช่วง,Jumlah total harus dalam jangkauan
+message.warning_quantity_max,Please enter a quantity less than,Please enter a quantity less than,โปรดป้อนปริมาณที่น้อยกว่า,Harap masukkan jumlah yang lebih kurang
+message.valid_url,Invalid URL,Url không hợp lệ,URL ไม่ถูกต้อง,URL tidak valid
+message.required,Can't empty,Không để trống trường thông tin này,อย่าปล่อยให้ช่องนี้ว่าง,Jangan biarkan kolom ini kosong
+message.required_period,"Something went wrong, please try again later","Đã xảy ra lỗi, vui lòng thử lại sau","Something went wrong, please try again later","Something went wrong, please try again later"
+message.fail_detail,Please complete all information on the form,Vui lòng nhập đầy đủ thông tin trên form,กรุณากรอกข้อมูลทั้งหมดในแบบฟอร์ม,Silakan masukkan semua informasi di formulir
+message.upgrade_premium,Please upgrade higher package,Vui lòng nâng cấp gói,กรุณาอัพเกรดแพ็คเกจ,Silakan tingkatkan paketnya
+message.loading,Loading,Đang tải,กำลังโหลด,Memuat
+message.confirm_delete,Are you sure to do this action?,Bạn có chắc chắn muốn thực hiện hành động này?,คุณแน่ใจหรือไม่ว่าจะดำเนินการนี้,Apakah Anda yakin akan melakukan tindakan ini?
+message.confirm_export_order_for_shipping_partner,Are you sure to do this action?,Bạn có chắc chắn muốn thực hiện hành động này?,คุณแน่ใจหรือไม่ว่าจะดำเนินการนี้,Apakah Anda yakin akan melakukan tindakan ini?
+message.confirm_cancel,Are you sure to do cancel?,Bạn có chắc chắn muốn hủy?,Are you sure to do cancel?,Are you sure to do cancel?
+table.number,Number,STT,ลำดับตัวเลข,UN ( uturan numberik)
+table.empty,Data is empty,Không có dữ liệu,ไม่มีข้อมูล,Tidak ada data
+table.created_at,Created at,Ngày tạo,วันที่สร้าง,Tanggal Dibuat
+table.created_by,Created by,Người tạo,วันที่สร้าง,Orang dibuat
+table.page,Page,Trang,หน้า,Halaman
+table.action,Action,Thao tác,การจัดการ,Manipulasi
+table.action_edit,Edit,Chỉnh sửa,แก้ไข,Merubah
+table.action_delete,Delete,Xóa,ลบ,Menghapus
+table.added_at,Added at,Ngày thêm,วันที่เพิ่ม,Tambah tanggal
+table.added_by,Added by,Người thêm,เพิ่มโดย,Orang tambahan
+popup-confirm.cancel,Cancel,Huỷ,ยกเลิก,Batal
+popup-confirm.confirm,Confirm,Đồng ý,ตกลง,Setuju
+global.undefined,Undefined,Chưa cập nhật,ไม่อัพเดท,Tidak memperbarui
+user_list.page_title,Users,Danh sách nhân viên,รายชื่อพนักงาน,Daftar Karyawan
+user_list.add_user,Create user,Tạo tài khoản,สร้างบัญชี,Buat Akun
+user_list.reset_password,Reset password,Thay đổi mật khẩu,เปลี่ยนรหัสผ่าน,Merubah kata sandi
+user_list.cf_reset_password,Are you sure you want to reset the password?,Bạn có muốn thay đổi mật khẩu?,คุณต้องการเปลี่ยนรหัสผ่านหรือไม่?,Apakah Anda ingin mengubah kata sandi?
+user_list.search_username,Username,Tên đăng nhập,ชื่อผู้ใช้,Nama pengguna
+user_list.search_fullname,Full name,Họ và tên,ชื่อและนามสกุล,Nama pertama dan terakhir
+user_list.search_email,Email,Địa chỉ email,ที่อยู่อีเมล,Alamat email
+user_list.search_phone,Phone,Số điện thoại,หมายเลขโทรศัพท์,Nomor telepon
+user_list.search_active,Account status,Tình trạng,สถานะ,Status
+user_list.username,Username,Tên đăng nhập,ชื่อผู้ใช้,Nama pengguna
+user_list.fullname,Full name,Họ và tên,ชื่อและนามสกุล,Nama lengkap
+user_list.email,Email,Địa chỉ email,ที่อยู่อีเมล,Alamat email
+user_list.phone,Phone,Số điện thoại,หมายเลขโทรศัพท์,Nomor telepon
+user_list.isActive,Account status,Tình trạng,สถานะ,Status
+user_list.active,Active,Hoạt động,ที่ใช้งานอยู่,Aktif
+user_list.inactive,Inactive,Đã khóa,ถูกล็อค,Terkunci
+common.page,Page,Trang,หน้า,Halaman
+user_list.all,All,Tất cả,ทั้งหมด,Semua
+user_list.id,ID,ID,ไอดี,ID
+user_list.active,Active,Kích hoạt,เปิดใช้งานแล้ว,Aktif
+user_list.deactive,Deactive,Khóa,ล็อค,Terkunci
+common.no_record_found,Found no record,Không tìm thấy bản ghi nào,ไม่พบบันทึก,Tidak ada catatan yang ditemukan
+common.clear_filter,Clear,Xóa bộ lọc,ลบฟิลเตอร์,Hapus filter
+campaign.title,Campaigns,Chiến dịch,แคมเปญ,Kampanye
+campaign.update_campaign,Update Campaign,Sửa chiến dịch,แก้ไขแคมเปญ,Merubah kampanye
+campaign.add_campaign,Add Campaign,Thêm chiến dịch,เพิ่มแคมเปญ,Tambah kampanye
+campaign.empty_records,Have no contacts yet,Không tồn tại bản ghi nào,ไม่มีบันทึก,Tidak ada yang catatan
+campaign.name,Campaign Name,Chiến dịch,แคมเปญ,Kampanye
+campaign.ads,Ads,Quảng cáo,โฆษณา,Iklan
+campaign.status,Status,Trạng thái,สถานะ,Status
+campaign.create_at,Created at,Ngày thêm,สร้างที่,Tambah tanggal
+campaign.create_by,Created by,Người thêm,สร้างโดย,Orang tambahan
+campaign.new_campaign,New Campaign,Thêm chiến dịch mới,New Campaign,New Campaign
+campaign.contact,Contact,Liên hệ,ติดต่อ,Kontak
+campaign.search,Search campaign,Tìm kiếm chiến dịch,ค้นหาแคมเปญ,Cari kampanye
+campaign.create_ad,Create Ad,Tạo quảng cáo,สร้างโฆษณา,Dibuat iklan
+campaign.create_ad_set,Create Ad Set,Tạo nhóm quảng cáo,สร้างกลุ่มโฆษณา,Buat grup iklan
+campaign.code,Code,Mã chiến dịch,รหัสแคมเปญ,Kode kampanye
+campaign.add_name,Name,Tên chiến dịch,ชื่อแคมเปญ,Nama kampanye
+campaign.cancel,Cancel,Hủy,ยกเลิก,Batal
+campaign.finish,Finish,Lưu,บันทึก,Simpan
+campaign.product,Product,Sản phẩm,สินค้า,Produk
+campaign.select,Select,Chọn,เลือก,Memilih
+campaign.sale,Sales,Đơn hàng,ใบสั่ง,Pesanan
+campaign.fb_campaign_id,Facebook Campaign Id must be a number,Facebook Campaign Id phải là 1 số,รหัสแคมเปญเฟสบุ๊คต้องเป็นตัวเลข,ID Kampanye Facebook harus yang nomor satu
+campaign.empty_adset_list,Ad sets are empty. Please create at least an ad set,Nhóm quảng cáo trống. Vui lòng tạo ít nhất một nhóm quảng cáo,กลุ่มโฆษณาว่างเปล่า โปรดสร้างกลุ่มโฆษณาอย่างน้อยหนึ่งกลุ่ม,Grup iklan kosong. Harap buat satu grup iklan
+campaign.project,Project,Dự án,โครงการ,Proyek
+campaign.useFbAd,Do you use the facebook advertisement ?,Sử dụng facebook advertisement ?,ใช้โฆษณาเฟสบุ๊ค?,Menggunakan facebook iklan?
+campaign.import_data_from_facebook,Import data from Facebook,Nhập dữ liệu từ Facebook,นำเข้าข้อมูลจากเฟสบุ๊ค,Impor data dari Facebook
+campaign.choose_file,Choose file *.csv from your computer,Chọn file *.csv từ máy tính,เลือกไฟล์ *.csv จากคอมพิวเตอร์ของคุณ,Pilih file *.csv dari komputer Anda
+package.choose_file_xlsx,Choose file *.xlsx from your computer,Chọn file *.xlsx từ máy tính,Choose file *.xlsx from your computer,Choose file *.xlsx from your computer
+campaign.error_choose_file,Please choose file from your computer,Vui lòng chọn file từ máy tính,โปรดเลือกไฟล์จากคอมพิวเตอร์ของคุณ,Silakan pilih file dari komputer Anda
+campaign.price_required,The price field is required,Không thể trống trường giá,ช่องราคาต้องไม่เว้นว่าง,Kolom harga tidak boleh kosong
+campaign.quantity_range_required,The quantity range is required,Không thể trống khoảng giá,ช่วงราคาต้องไม่เว้นว่าง,Tidak boleh biar kosong kolum harga
+campaign.required_from_to,Quantity To must be bigger than or equal Quantity From,Số lượng đến phải lớn hơn hoặc bằng số lượng từ,Quantity To must be bigger than or equal Quantity From,Quantity To must be bigger than or equal Quantity From
+campaign.quantities_must_be_consecutive,Quantities must be consecutive,Mốc khoảng số lượng phải liền nhau,ปริมาณต้องต่อเนื่องกัน,Tanda kuantitas harus bersebelahan
+campaign.to_must_greater_from,(To) value must be greater than (from) value,Giá trị sau phải lớn hơn giá trị trước,ค่าหลังต้องมากกว่าค่าเดิม,Nilai yang terakhir harus lebih besar dari yang pertama
+campaign.delete_campaign_alert,This campaign has at least one adset so it cannot be deleted,Bạn không thể xóa campaign có chứa nhóm quảng cáo,คุณไม่สามารถลบแคมเปญที่มีกลุ่มการโฆษณา,Anda tidak dapat menghapus kampanye yang ada grup iklan
+campaign.delete_adset_alert,This adset has at least one ad so it cannot be deleted,Bạn không thể xóa nhóm quảng cáo có chứa quảng cáo,คุณไม่สามารถลบกลุ่มโฆษณาที่มีโฆษณา,Anda tidak dapat menghapus grup iklan yang ada iklan
+campaign.delete_ad_alert,This ad has at least one contact so it cannot be deleted,Bạn không thể xóa quảng cáo có chứa contact,คุณไม่สามารถลบโฆษณาที่มีผู้ติดต่อ,Anda tidak dapat menghapus iklan yang ada kontak
+campaign.delete_campaign_alert_2,This campaign has at least one ad so it cannot be deleted,Bạn không thể xóa campaign có chứa quảng cáo,คุณไม่สามารถลบแคมเปญที่มีโฆษณาได้,Anda tidak dapat menghapus kampanye yang ada iklan
+campaign.delete_campaign_alert_3,This campaign has at least one contact so it cannot be deleted,Bạn không thể xóa campaign có chứa contact,คุณไม่สามารถลบแคมเปญที่มีผู้ติดต่อ,Anda tidak dapat menghapus kampanye yang berisi kontak
+campaign.name_placeholder,Enter name of campaign,Nhập tên chiến dịch,ใส่ชื่อแคมเปญ,Masukkan nama kampanye
+campaign.validate_name,Please input campaign name,Vui lòng nhập tên chiến dịch,โปรดป้อนชื่อแคมเปญ,Harap masukkan nama kampanye
+campaign.facebook_id,Facebook campaign ID,ID facebook chiến dịch,Facebook campaign ID,Facebook campaign ID
+campaign.face_length,The length of facebook campaign ID field maximum 160 characters,Độ dài ID facebook chiến dịch tối đa 160 ký tự,ความยาวของ ID เฟสบุ๊คแคมเปญ สูงสุด 160 ตัวอักษร,Panjang ID kampanye facebook maksimum 160 karakter
+campaign.name_create_pl,Enter campaign name,Nhập tên chiến dịch,Enter campaign name,Enter campaign name
+campaign.facebook_create_pl,Enter Facebook Ads Id,Nhập Facebook Ads Id,Enter Facebook Ads Id,Enter Facebook Ads Id
+campagin.type_create,Campaign type,Loại chiến dịch,Campaign type,Campaign type
+campaign.type_pl,Select campaign type,Chọn loại chiến dịch,Select campaign type,Select campaign type
+campaign.items,items,món,items,items
+ads.api_url,API URL,API URL,API URL,API URL
+ads.token,API Request Header,API Request Header,API Request Header,API Request Header
+ads.add-sku,Add sku,Thêm sku,Add sku,Add sku
+ads.gift,Gifts,Quà tặng,Gifts,Gifts
+ads.type,Ads type,Loại ads,Ads type,Ads type
+project.create,Create project,Tạo dự án,สร้างโครงการ,Dibuat proyek
+project.update,Update project,Cập nhật dự án,อัพเดทโครงการ,Pembaruan Proyek
+project.title,Projects,Dự án,โครงการ,Proyek
+project.name,Project name,Tên dự án,ชื่อโครงการ,Nama proyek
+project.validate_name,Please input project name,Vui lòng nhập tên dự án,กรุณากรอกชื่อโครงการ,Silakan masukkan nama proyek
+project.validate_product,Please select your product,Vui lòng chọn sản phẩm,กรุณาเลือกผลิตภัณฑ์,Silahkan pilih produk
+project.name_placeholder,Enter name of project,Nhập tên dự án,ใส่ชื่อโครงการ,Masukkan nama proyek 
+project.validate_select,Please select your project,Vui lòng chọn dự án,กรุณาเลือกโครงการ,Silakan pilih proyek
+project.facebook_id,Enter facebook project ID,Nhập ID facebook dự án,ใส่ ID เฟสบุ๊ค โครงการ,Masukkan ID facebook proyek
+project.face_length,The length of facebook project ID field maximum 160 characters,Độ dài ID facebook dự án tối đa 160 ký tự,ความยาวของ ใส่ ID เฟสบุ๊คโครงการ สูงสุด 160 ตัวอักษร,Panjang ID facebook proyek maksimum 160 karakter
+project.select_name,Select project,Chọn dự án,เลือกโครงการ,Pilih proyek
+project_list.create,Create project,Tạo dự án,สร้างโครงการ,Dibuat proyek
+project_list.search,Search,Tìm kiếm,ค้นหา,Cari
+project_list.count_campaign,Campaigns,Chiến dịch,แคมเปญ,Kampanye
+project_list.count_adset,Adsets,Nhóm QC,ทีม QC,Grup Iklan
+project_list.count_ad,Ads,Quảng cáo,โฆษณา,iklan
+project_list.name,Project name,Tên dự án,ชื่อโครงการ,Nama proyek
+project_list.code,Project code,Mã dự án,รหัสโครงการ,Kode proyek
+project_list.add,Add Project,Thêm dự án,เพิ่มโครงการ,Tambah proyek
+campaign_list.create,Create campaign,Tạo chiến dịch,สร้างแคมเปญ,Dibuat kampanye
+campaign_list.name,Campaign name,Tên chiến dịch,ชื่อแคมเปญ,Nama kampanye
+campaign_list.delivery,Delivery,Đã giao,จัดส่งเรียบร้อย,Terkirim
+campaign_list.count_contact,Contacts,Liên hệ,ติดต่อ,Kontak
+campaign_list.count_order,Orders,Đơn hàng,คำสั่งซื้อ,Pesanan
+campaign_list.count_adset,Adsets,Nhóm quảng cáo,กลุ่มโฆษณา,Grup iklan
+campaign_list.count_ad,Ads,Quảng cáo,โฆษณา,Iklan
+campaign_list.search,Search campaigns,Tìm chiến dịch,ค้นหาแคมเปญ,Cari kampanye
+campaign_list.code,Campaign code,Mã chiến dịch,รหัสแคมเปญ,Kode kampanye
+campaign_list.add,Add Campaign,Thêm chiến dịch,เพิ่มแคมเปญ,Tambah kampanye
+product_list.status,Status,Tình trạng,สถานะ,Status
+product_list.active,Active,Kích hoạt,เปิดใช้งานแล้ว,Aktif
+product_list.inactive,Inactive,Ngưng hoạt động,ปิดใช้งาน,Menutup
+product_list.tab_name,Products,Sản phẩm,สินค้า,Produk
+product_list.name,Product name,Tên sản phẩm,ชื่อสินค้า,Nama produk
+product_list.count_project,Projects,Dự án,โครงการ,Proyek
+product_list.count_campaign,Campaigns,Chiến dịch,แคมเปญ,Kampanye
+product_list.count_order,Orders,Đơn hàng,คำสั่งซื้อ,Pesanan
+product_list.count_adset,Adsets,Nhóm quảng cáo,กลุ่มโฆษณา,Grup iklan
+product_list.count_ad,Ads,Quảng cáo,โฆษณา,Iklan
+product_list.count_contact,Contacts,Liên hệ,ติดต่อ,Kontak
+product_list.search,Search product,Tìm kiếm sản phẩm,Search product,Search product
+product_list.code,Product code,Mã sản phẩm,รหัสสินค้า,Kode Produk
+ads_group_list.name,Adset name,Tên nhóm quảng cáo,ชื่อกลุ่มโฆษณา,Nama grup iklan
+ads_group_list.tab_name,Adsets,Nhóm quảng cáo,กลุ่มโฆษณา,Grup iklan
+ads_group_list.create,Create ad sets,Tạo nhóm quảng cáo,สร้างกลุ่มโฆษณา,Buat grup iklan
+ads_group_list.update,Update Adset,Sửa nhóm quảng cáo,แก้ไขกลุ่มโฆษณา,Edit grup iklan
+ads_group_list.count_order,Orders,Đơn hàng,คำสั่งซื้อ,Memesan
+ads_group_list.count_contact,Contacts,Liên hệ,ติดต่อ,Kontak
+ads_group_list.delivery,Delivery,Đã giao,จัดส่งเรียบร้อย,Terkirim
+ads_group_list.search,Search Adsets,Tìm kiếm,ค้นหา,Cari
+ads_group_list.code,Adset code,Mã nhóm quảng cáo,รหัสกลุ่มโฆษณา,Kode grup iklan
+ads_group_list.add,Add adset,Thêm nhóm quảng cáo,เพิ่มกลุ่มโฆษณา,Tambahkan grup iklan
+ads_group.create,Create Adset,Tạo nhóm quảng cáo,สร้างกลุ่มโฆษณา,Buat grup iklan
+ads_group.name,Adset name,Tên nhóm,ชื่อกลุ่ม,Nama grup
+ads_group.code,Code,Mã nhóm,รหัสกลุ่ม,Kode grup
+ads_group.name_required,Name is required,Vui lòng nhập tên,กรุณากรอกชื่อของคุณ,Silahkan masukan nama anda
+ads_group.code_required,Code is required,Vui lòng nhập mã,กรุณากรอกรหัส,Silakan masukkan kodenya
+ads_group.campaign_required,Campaign is required,Vui lòng chọn chiến dịch,กรุณาเลือกแคมเปญ,Silakan pilih kampanye
+ads_group.title,Ads set,Nhóm quảng cáo,กลุ่มโฆษณา,Grup iklan
+ads_group.name_length_validate,The length of name field is between 5 to 160 characters,Độ dài tên là từ 5 - 160 ký tự,ชื่อยาวตั้งแต่ 5 - 160 ตัวอักษร,Panjang nama dari 5 - 160 karakter
+ads_group.fb_ads_group_id,Facebook Adsets Id must be a number,Facebook Adsets Id phải là 1 số,รหัสโฆษณา Facebook ต้องเป็นตัวเลข,Id Facebook Ads harus nomor satu
+ads_group.code_length,The length of code field is between 3 to 160 characters,Độ dài code là từ 3 - 160 ký tự,รหัสยาวตั้งแต่ 3 - 160 ตัวอักษร ký,Panjang kode dari 3 - 160 karakter
+ads_group.input_name,Enter name of adset,Nhập tên nhóm quảng cáo,ป้อนชื่อกลุ่มโฆษณา,Masukkan nama grup iklan
+ads_group.select_name,Select Campaign,Chọn chiến dịch,เลือกแคมเปญ,Pilih kampanye 
+ads_group.validate_name,Please input adset name ,Vui lòng nhập tên nhóm quảng cáo,โปรดป้อนชื่อกลุ่มการโฆษณา,Harap masukkan nama grup iklan
+ads_group.validate_campaign,Please select your campaign,Vui lòng chọn chiến dịch,กรุณาเลือกแคมเปญ,Silakan pilih kampanye
+ads_group.validate_face,Please input facebook adset ID,Vui lòng nhập ID facebook nhóm quảng cáo,กรุณากรอก ID กลุ่มโฆษณาของ Facebook,Silakan masukkan ID grup iklan Facebook 
+ads_group.face_placeholder,Enter facebook adset ID,Nhập ID facebook nhóm quảng cáo,ป้อน ID กลุ่มโฆษณา Facebook,Masukkan ID grup iklan Facebook
+ads_group.name_length,The length of name field maximum 160 characters,Độ dài tên tối đa 160 ký tự,ชื่อยาวสูงสุด 160 ตัวอักษร,Panjang nama maksimum 160 karakter
+ads_group.face_length,The length of facebook adset ID field maximum 160 characters,Độ dài ID facebook nhóm quảng cáo tối đa 160 ký tự,ความยาวสูงสุดของ ID กลุ่มโฆษณา Facebook 160 ตัวอักษร,Panjang ID grup iklan facebook maksimum  160 karakter
+ads_list.tab_name,Ads,Quảng cáo,โฆษณา,Iklan
+ads_list.name,Ad name,Tên quảng cáo,ชื่อโฆษณา,Nama iklan
+ads_list.adset,Adsets,Nhóm QC,ทีม QC,Grup iklan
+ads_list.search,Search Ad,Tìm kiếm,ค้นหา,Cari
+ads_list.create,Create ad,Tạo quảng cáo,สร้างโฆษณา,Buat iklan
+ads_list.code,Ad code,Mã quảng cáo,รหัสโฆษณา  ,Kode promosi
+ads_list.count_contact,Contacts,Liên hệ,ติดต่อ,Kontak
+ads_list.campaign,Campaigns,Chiến dịch,แคมเปญ,Kampanye
+ads_list.default,Default,Mặc định,ค่าเริ่มต้น,Default
+ads.create,Create ads,Tạo quảng cáo,สร้างโฆษณา,Buat iklan
+ads.contact,Contact,Số liên hệ,เบอร์ติดต่อ,Nomor Hubungi
+ads.campaign,Campaigns,Chiến dịch,แคมเปญ,Kampanye
+ads.create_at,Created at,Ngày thêm,สร้างที่,Tambah tanggal
+ads.create_by,Created by,Người thêm,สร้างโดย,Orang tambahan
+ads.status,Status,Trạng thái,สถานะ,Status
+ads.new_ads,New Ads,Thêm quảng cáo mới,New Ads,New Ads
+ads.update,Update ads,Cập nhật quảng cáo,อัพเดทโฆษณา,Pembaruan iklan
+ads.name,Ads Name,Tên,ชื่อ,Nama
+ads.name_pl,Enter ads name,Nhập tên chiến dịch quảng cáo,Enter ads name,Enter ads name
+ads.code,Code,Mã QC,รหัส,Kode Iklan
+ads.retail,Retail,Bán lẻ,ขายปลีก,Eceran
+ads.whole_sale,Whole sale,Bán buôn,ขายส่ง,Grosir
+ads.suggest_price,Suggest price,Giá gợi ý,ราคาแนะนำ,Harga yang disarankan
+ads.product,Product,Sản phẩm,สินค้า,Produk
+ads.apply_all,Apply all,Áp cho tất cả,นำไปใช้กับทั้งหมด,Harga untuk semua
+ads.to,To,Đến,ถึง,Tujuan
+ads.from,From,Từ,จาก,Dari
+ads.quantity,Quantity,Số lượng,จำนวน,Jumlah
+ads.price,Price,Giá,ราคา,Harga
+ads.add_more_price_range,Add more prices,Thêm khoảng giá,เพิ่มช่วงราคา,Tambah harga 
+ads.name_required,Name is required,Vui lòng nhập tên,กรุณากรอกชื่อของคุณ,Silahkan masukan nama anda
+ads.code_required,Code is required,Vui lòng nhập mã,กรุณากรอกรหัส,Silakan masukkan kodenya
+ads.price_required,Price is required,Vui lòng nhập giá,กรุณาใส่ราคา,Silakan masukkan harga
+ads.sku_required,Please select at least one sku,Vui lòng chọn ít nhất một sku,โปรดเลือก SKU อย่างน้อยหนึ่งรายการ,Silakan pilih sedikit dari satu sku
+ads.price_range_required,Please fill own quantity range and price,Vui lòng nhập số lượng và giá,กรุณาระบุจำนวนและราคา,Silakan masukkan jumlah dan harga
+ads.empty_required,Can't empty,Không để trống,อย่าเว้นว่าง,Jangan biarkan kosong
+ads.quantities_must_be_consecutive,Quantities must be consecutive,Mốc khoảng số lượng phải liền nhau,เครื่องหมายปริมาณต้องต่อเนื่องกัน,Tanda kuantitas harus bersebelahan
+ads.fb_ads_id,Facebook Ads Id must be a number,Facebook Ads Id phải là 1 số,รหัสโฆษณา Facebook ต้องเป็นตัวเลข,Id Iklan Facebook harus nomor 1
+ads.to_must_greater_from,(To) value must be greater than (from) value,Giá trị sau phải lớn hơn giá trị trước,ค่าหลังต้องมากกว่าค่าเดิม,Nilai yang terakhir harus lebih besar dari yang pertama
+ads.default,Set to default,Chọn làm mặc định,เลือกเป็นค่าเริ่มต้น,Pilih sebagai default
+ads.sku,SKU,SKU,SKU,SKU
+ads.properties,Variants,Biến thể,ตัวแปร,Varian
+ads.price_required,The price field is required,Không thể trống trường giá,ช่องราคาต้องไม่เว้นว่าง,Kolom harga tidak boleh kosong
+ads.quantity_range_required,The quantity range is required,Không thể trống khoảng giá,ช่วงราคาต้องไม่เว้นว่าง,Tidak boleh kosong kolum harga
+ads.to_must_greater_from,(To) value must be greater than (from) value,Giá trị sau phải lớn hơn giá trị trước,ค่าหลังต้องมากกว่าค่าเดิม,Nilai yang terakhir harus lebih besar dari yang pertama
+ads.select_campaign,Select a campaign,Chọn một chiến dịch,เลือกแคมเปญ,Pilih kampanye
+ads.select_adset,Select a adset,Chọn một nhóm quảng cáo,เลือกกลุ่มโฆษณา,Pilih grup iklan
+ads.input_name,Input name,Nhập tên,ใส่ชื่อ,Masukkan nama
+ads.edit,Edit ads,Sửa quảng cáo,แก้ไขโฆษณา,Merubah iklan
+ads.input_fbadid,Input facebook ad id,Nhập Facebook Ad Id,ป้อนรหัสโฆษณา Facebook,Masukkan ID Iklan Facebook
+ads.fbadid,Facebook ad id,Facebook Ad Id,รหัสโฆษณา Facebook,ID Iklan Facebook
+ads.fb_ad_existed,Facebook ad is existed,Facebook Ad Id đã tồn tại,รหัสโฆษณา Facebook มีอยู่แล้ว,Id Iklan Facebook sudah ada
+ads.landing_url,Landing page URL,Landing page URL,URL หน้า Landing Page,halaman arahan URL 
+ads.landing_url_pl,Enter landing page URL,Nhập Landing page URL,Enter landing page URL,Enter landing page URL
+ads.url_invalid,Url is invalid,Url không đúng định dạng,URL มีรูปแบบไม่ถูกต้อง, Salah format Url
+ads.ad_existed,Ad is existed,Quảng cáo đã tồn tại,มีโฆษณาอยู่แล้ว,Iklan sudah ada
+ads.gifts,Gifts,Quà tặng,ของขวัญ,hadiah
+ads.update_gift,Update gift,Sửa quà tặng,อัพเดทของขวัญ,memperbarui hadiah
+ads.add_gift,Add gift,Thêm quà tặng,เพิ่มของขวัญ,tambahkan hadiah
+ads.gift_serial,Serial,Stt,ซีเรียล,serial
+ads.gift_created_by,Created by,Tạo bởi,สร้างโดย,dibuat oleh
+ads.gift_updated_by,Updated by,Cập nhật bởi,ปรับปรุงโดย,diperbaharui oleh
+ads.gift_created_at,Created at,Tạo lúc,สร้างที่,dibuat di
+ads.gift_updated_at,Updated at,Cập nhật lúc,ปรับปรุงที่,diperbarui pada
+ads.facebook_ads,Facebook Ads Id,Facebook Ads Id,Facebook Ads Id,Facebook Ads Id
+button.update,Update,Cập nhật,อัพเดท,Memperbarui
+button.add,Add,Thêm,เพิ่ม,Lebih
+button.delete,Delete,Xóa,ลบ,Hapus
+button.save,Save,Lưu lại,บันทึก,Simpan
+button.no,No,Không,ไม่ใช่,Tidak
+button.yes,Yes,Có,ใช่,Ada
+button.cancel,Cancel,Bỏ qua,ข้าม,Melewatkan
+button.finish_button,Finish,Lưu,บันทึก,Simpan
+button.cancel_button,Cancel,Hủy,ยกเลิก,Membatalkan
+button.edit,Edit,Chỉnh sửa,แก้ไข,Merubah
+button.filter,Filter,Lọc,กรอง,Filter
+button.clear_all_filter,Clear all filters,Xóa bộ lọc,ลบฟิลเตอร์,Hapus filter
+button.next,Next,Tiếp tục,Next,Next
+button.back_to_home,Back to home,Quay lại trang chủ,กลับหน้าหลัก,kembali ke halaman utama
+button.create,Create,Tạo mới,Create,Create
+button.validate,Validate,Kiểm tra,Validate,Validate
+web_id,Webhook ID,Webhook ID,Webhook ID,Webhook ID
+support_contact,Token,Token,Token,Token
+user_list.message_success,Successful,Thành công,สำเร็จ,Berhasil
+user_list.error_no_account_activate,Please select user(s) to activate,Hãy chọn (các) tài khoản muốn kích hoạt,โปรดเลือกบัญชีที่คุณต้องการเปิดใช้งาน,Silakan pilih akun yang ingin Anda aktifkan
+user_list.error_no_account_deactivate,Please select user(s) to deactivate,Hãy chọn (các) tài khoản muốn khóa,โปรดเลือกบัญชีที่คุณต้องการบล็อก,Silakan pilih akun yang ingin Anda blokir
+user_list.createdAt,Created time,Thời gian tạo,เวลาสร้าง,Waktu dibuat
+months.jan,Jan,T1,มกราคม,Januari
+months.feb,Feb,T2,กุมภาพันธ์,Febuari
+months.march,Mar,T3,มีนาคม,Maret
+months.april,Apr,T4,เมษายน,April
+months.may,May,T5,พฤษภาคม,Mei 
+months.june,Jun,T6,มิถุนายน,Juni
+months.july,Jul,T7,กรกฎาคม,Juli
+months.august,Aug,T8,สิงหาคม,Agustus
+months.september,Sep,T9,กันยายน,September
+months.october,Oct,T10,ตุลาคม,Oktober
+months.november,Nov,T11,พฤศจิกายน,November
+months.december,Dec,T12,ธันวาคม,Desember
+order_list.hasIssue,Stock Issue Order,Đơn tạo phiếu,คำสั่งการออกสต็อค,Formulir pesanan
+order_list.createStock,Create Stock Issue,Tạo phiếu xuất,สร้างใบส่งของ,Buat formulir ekspor
+order_status.create,Create,Chưa tạo phiếu,ยังไม่มีการสร้าง,Belum dibuat formulir
+order_status.created,Created,Đã tạo phiếu,สร้างเรียบร้อย,Sudah dibuat formulir!
+order_list.code,Code,Mã đơn,รหัสคำสั่งซื้อ,Kode pesanan
+order_list.createdBy,Created By,Chốt đơn,ยืนยันการสั่งซื้อ,Pesanan
+order_list.campaign,Source,Nguồn,ที่มา,Sumber
+order_list.createdAt,Created time,Ngày chốt đơn,วันยืนยันการสั่งซื้อ,Tanggal Pesanan
+order_list.deliveryDate,Delivery date,Ngày hẹn giao,วันที่จัดส่ง,Tanggal janji pengiriman
+order_list.customerName,Customer name,Tên khách hàng,ชื่อลูกค้า,Nama Pelanggan
+order_list.province,Province,Tỉnh/thành phố,จังหวัด/เมือง,Provinsi/kota
+order_list.district,City,Quận/huyện,อำเภอ,Distrik
+order_list.customerPhone,Customer phone,Số điện thoại,หมายเลขโทรศัพท์,Nomor telepon
+order_list.import_tracking_number_lbc,Import tracking number LBC,Nhập mã vận đơn từ LBC,ป้อนรหัสใบตราส่งสินค้าจาก LBC,Masukkan kode formulir dari LBC
+order_list.import_tracking_number_fail_list_title,Error information,Thông báo lỗi,ข้อความผิดพลาด,informasi salah
+order_list.import_tracking_number_shippo,Import tracking number Shippo,Nhập mã vận đơn từ Shippo,ป้อนรหัสใบตราส่งสินค้าจาก Shippo,Masukkan kode formulir dari Shippo
+order_list.lbc_import_line,Line,Dòng,แถว,Arus
+order_list.lbc_import_error,Error,Chi tiết lỗi,ข้อผิดพลาดโดยละเอียด,Kesalahan terperinci
+order_list.products,Product,Sản phẩm,สินค้า,Produk
+order_list.courier,Courier,Đơn vị vận chuyển,หน่วยจัดส่ง,Pihak pengiriman
+order_list.not_in_manila,Not in Manila,Ngoài Manila,นอกกรุงมะนิลา,Di luar Manila
+order_list.ad_creator,Ads created by,Người tạo QC,ผู้สร้าง QC,Pembuat Iklan
+order_list.none_courier,None,Chưa có,ยังไม่พร้อมให้บริการ,Belum ada
+order_list.payment_status,Payment status,Trạng thái thanh toán,สถานะการชำระเงิน,Status pembayaran
+order_list.paid_status,Paid,Đã thanh toán,ชำระแล้ว,Sudah bayar
+order_list.unpaid_status,Unpaid,Chưa thanh toán,ค้างชำระ,Belum dibayar
+order_list.created_at,Created at,Ngày tạo,วันที่สร้าง,Tambah hari
+order_list.check_all,Select All,Chọn tất cả,เลือกทั้งหมด,Pilih Semua
+order_list.stock_issue,Stock Issue,Phiếu xuất,ใบส่งของ,Tagihan
+order_list.assign_to,Assigned to,Phụ trách,ได้รับมอบหมายให้,Bertanggung jawab 
+order_list.unassign_to,Unassign,Chưa phụ trách,ยังไม่ได้มอบหมาย,Belum bertanggung jawab
+order_list.unassign_btn,Unassign,Trả contact ,ยกเลิกการมอบหมาย,Kembalikan kontak
+order_list.warehouse_note,Warehouse note,Ghi chú của kho,หมายเหตุของคลังสินค้า,Catatan gudang
+order_list.campaign,Campaign,Chiến dịch,แคมเปญ,Kampanye
+order_list.created_by_placeholder,Search created by,Tìm kiếm người chốt đơn,Search created by,Search created by
+order_list.district_placeholder,Select province,Chọn tỉnh/thành phố,เลือกจังหวัด/เมือง,Pilih provinsi/kota
+order_list.ward_placeholder,Select ward,Chọn phường xã,Select ward,Select ward
+order_list.city_placeholder,Select city,Chọn quận/huyện,เลือกอำเภอ/เขต,Pilih kabupaten/kabupaten
+order_list.stock_issue_placeholder,Select stock issue order,Chọn đơn tạo phiếu,เลือกแบบฟอร์มเพื่อสร้างตั๋ว,Pilih formulir untuk membuat tagihan
+order_list.courier_placeholder,Select courier,Chọn đơn vị vận chuyển,เลือกหน่วยจัดส่ง,Pilih pihak pengiriman pengiriman
+order_list.country,Select country,Chọn quốc gia,เลือกประเทศ,Pilih negara
+order_list.country_column,Country,Quốc gia,ประเทศ,Negara
+order_list.vendor,Vendor,Vendor,ผู้ขาย,Vendor
+order_list.select_status,Select status,Chọn trạng thái,Select status,Select status
+order_list.from,From,Từ,จาก,From
+order_list.to,To,Đến,ถึง,To
+order_status.NEW,New,Mới,ใหม่,Baru
+order_status.READY,Ready,Đóng gói xong,บรรจุเสร็จแล้ว,Selesai Packing
+order_status.PICKED_UP,Picked up,Đã lấy hàng,ไปรับ,Sudah ambil barang
+order_status.DELIVERING,Delivering,Đang giao,กำลังส่งของ,Sedang Pengiriman
+order_status.DELIVERED,Delivered,Đã nhận,ได้รับของแล้ว,Sudah terima
+order_status.HOLD,Hold,Chưa gửi,ยังไม่ได้จัดส่ง,Belum kirim
+order_status.RETURNED,Returned,Bị trả lại,ของโดนตีกลับ,Retur
+order_status.CANCELLED,Cancelled,Hủy,ยกเลิก,Batal
+order_status.DELIVERY_FAILED,Delivery Failed,Giao hàng thất bại,การจัดส่งล้มเหลว,Pengiriman gagal
+order_status.WAREHOUSE_RECEIVED,Warehouse Received,Kho đã tiếp nhận,Warehouse Received,Warehouse Received
+order_status.PACKING,Packing,Đang đóng gói,Packing,Packing
+order_status_cancelled.CANCELLED_BY_CUSTOMER,Cancel by customer,Khách hàng hủy đơn hàng,ลูกค้ายกเลิกคำสั่งซื้อ,Pelanggan membatalkan pesanan
+order_status_cancelled.OTHER,Other ,Lý do khác,เหตุผลอื่น ๆ,Alasan lain
+order_status_cancelled.OUT_OF_DELIVERY_ZONE,Out of Delivery Zone,Đơn vị vận chuyển không hỗ trợ giao,หน่วยจัดส่งไม่รองรับการจัดส่ง,Pihak pengiriman tidak mendukung pengiriman
+order_list.status,Status,Trạng thái,สถานะ,Status
+order.order_code_auto_generates,System automatically generates order code,Để trống hệ thống tự động sinh mã đơn hàng,System automatically generates order code,System automatically generates order code
+order.order_code_placeholder,Search order code of order,Tìm kiếm theo mã đơn hàng,Search order code of order,Search order code of order
+order.tracking_number_placeholder,Search tracking number of order,Tìm kiếm theo mã vận đơn,Search tracking number of order,Search tracking number of order
+order.sku_code_placeholder,Search sku code of order,Tìm kiếm theo mã sku,Search sku code of order,Search sku code of order
+order.status_placeholder,Select status of order,Chọn trạng thái đơn hàng,Select status of order,Select status of order
+order.name_placeholder,Search customer name of order,Tìm kiếm theo tên khách hàng,Search customer name of order,Search customer name of order
+order.phone_placeholder,Search customer phone of order,Tìm kiếm theo số điện thoại khách hàng,Search customer phone of order,Search customer phone of order
+order.payment_type_placeholder,Select payment type of order,Tìm kiếm theo loại thanh toán,Select payment type of order,Select payment type of order
+order.import_order,Import Order From Excel File,Import Order From Excel File,Import Order From Excel File,Import Order From Excel File
+order.import_order_title,Import Order,Import Order,Import Order,Import Order
+order.draft_list,Draft Orders,Danh sách đơn hàng tạm,Draft Orders,Draft Orders
+order.import_required,You have to upload file order,Bạn phải upload file đơn hàng,You have to upload file order,You have to upload file order
+order.upload,Upload,Tải lên,Upload,Upload
+error.timeout,Request timeout; please try again later,Máy chủ phản hồi quá chậm; vui lòng thử lại,เซิร์ฟเวอร์ตอบสนองช้าเกินไป กรุณาลองอีกครั้ง,Pusat merespons terlalu lambat; Silakan coba lagi
+error.receipt_detail_status,Can't change status,Không thể chuyển trạng thái,เปลี่ยนสถานะไม่ได้,Tidak dapat mengubah status
+error.status,You can't update back to previous status,Bạn không thể cập nhật trạng thái trước đó,คุณไม่สามารถอัปเดตสถานะก่อนหน้า,Anda tidak dapat memperbarui status kembali
+error.once,We are still processing your request; please wait,Bạn thao tác nhanh quá; hệ thống vẫn đang xử lý,คุณทำเร็วเกินไป ระบบยังคงประมวลผลอยู่,Anda bertindak terlalu cepat; Sistem masih memproses
+order_status.RETURN,Return,Trả lại,ส่งกลับ,Retur
+order_status.RETURNED,Returned,Đổi trả hàng thành công,ส่งคืนและเปลี่ยนสำเร็จ,Pengembalian sudah berhasil
+order_status.RETURNING,Returning,Đơn hoàn,แบบฟอร์มขอคืนเงิน,Paket retur
+order_status.EXCHANGE,Exchange,Đổi hàng,แลกเปลี่ยนสินค้า,Tukaran Produk
+order_status.DRAFT,Draft,Đơn nháp,ร่างคำสั่งซื้อ,Pesanan Draf 
+order_sub_status.WRONG,Wrong,Không giống miêu tả,ไม่เป็นไปตามที่อธิบายไว้,Barang tidak seperti gambar
+order_sub_status.DEFECTIVE,Defective,Hàng hư lỗi,สินค้าเสียหาย,Barang rusak
+tracking_status.NOT_FOUND,Notfound,Không có thông tin,ไม่มีข้อมูล,Tidak ada informasi
+tracking_status.PENDING,Pending,Đang cập nhật,กำลังอัปเดต,Memperbarui
+tracking_status.RETURN_COMPLETED,Return Completed,Đổi trả thành công,ส่งคืนเสร็จสิ้น,Tukaran sukses
+tracking_status.DELIVERING,Delivering,Đang vận chuyển,กำลังขนส่ง,Sedang Pengiriman
+tracking_status.DELIVERED,Delivered,Chuyển hàng thành công,จัดส่งเรียบร้อย,Pengiriman sukses
+tracking_status.EXCEPTION,Exception,Có lỗi xảy ra,เกิดข้อผิดพลาด,Kesalahan terjadi
+tracking_status.EXPIRED,Expired,Hết hạn,หมดอายุ,kadaluarsa
+tracking_status.pending,Pending,Pending,รอดำเนินการ,Tertunda
+tracking_status.waiting,Waiting,Waiting,รอดำเนินการ,Menunggu
+tracking_status.FAILED_ATTEMPT,Failed Attempt,Vận chuyển lỗi,ข้อผิดพลาดในการจัดส่ง,kesalahan pengiriman
+dashboard.new_contact,New contact,Liên hệ mới,ผู้ติดต่อใหม่,Kontak baru
+dashboard.new_call,New call,Cuộc gọi mới,โทรใหม่,Panggilan baru
+dashboard.new_delivered_order,New delivered order,Đơn hàng đã giao,คำสั่งซื้อที่จัดส่งแล้ว,Pesanan sudah kirim
+dashboard.new_scheduled_order,Scheduled order today,Đơn hàng hẹn giao hôm nay,กำหนดจัดส่งคำสั่งซื้อวันนี้,Pesanan dijadwalkan akan dikirim hari ini
+dashboard.new_order,New order,Đơn hàng mới,คำสั่งซื้อใหม่,Pesanan baru
+dashboard.order,Order,Đơn hàng,คำสั่งซื้อ,Pesanan
+dashboard.contact,Contact,Liên hệ,ติดต่อ,Kontak
+dashboard.yesterday,Yesterday,Hôm qua,เมื่อวาน,Kemarin
+dashboard.contact_appointment,Schedule today ,Đặt lịch gọi lại,กำหนดเวลาโทรกลับ,Jadwal untuk telepon kembali
+dashboard.contact_assign,Assign today,Được giao  hôm nay,ได้จัดส่งวันนี้,Dikirim hari ini
+dashboard.contact_reservation,Schedule delivery,Cần phải gọi lại,ต้องโทรกลับ,Perlu menelepon kembali
+dashboard.new_stock_issue,New stock issue,Phiếu xuất mới,ใบส่งของใหม่,Eskpor tagihan baru
+dashboard.stock_issue_need_processed,Stock issues need to be processed,Phiếu xuất cần xử lý,ใบส่งของได้รับการประมวลผล,ekspor tagihan perlu diproses
+dashboard.stock_issue_processed,Stock issues processed,Phiếu xuất đã xử lý,ใบส่งของได้ประมวลผลแล้ว,Tahigan sudah selesaikan
+dashboard.select_country,Select country,Chọn quốc gia,Select country,Select country
+dashboard.warehouse,Warehouse,Kho,คลังสินค้า,Gudang
+dashboard.select_vendor,Select vendor,Chọn đối tác,Select vendor,Select vendor
+dashboard.vendor,Vendor,Đối tác,Vendor,Vendor
+dashboard.country,Country,Quốc gia,Country,Country
+dashboard.my_contact,My Contact,Liên hệ của tôi,ผู้ติดต่อของฉัน,Kontak saya
+dashboard.my_order,My Order,Đơn hàng của tôi,My Order,My Order
+dashboard.dashboard,Dashboard,Bảng điều khiển,Dashboard,Dashboard
+dashboard.vendor_management,Vendor management,Quản lý đối tác ,Vendor management,Vendor management
+tab.count_selected,Selected,Được chọn,เลือกแล้ว,Terpilih
+profile.password,Change password,Đổi mật khẩu,เปลี่ยนรหัสผ่าน,Ganti kata sandi
+profile.user,Profile,Hồ sơ,ไฟล์,Profil
+profile.sign_out,Sign out,Đăng xuất,ออกจากระบบ,Keluar
+profile.title,User Profile,Hồ sơ cá nhân,ข้อมูลส่วนตัว,Profil
+profile.activity,Activity,Hành động,กิจกรรม,Bertindak
+profile.setting,Setting,Chỉnh sửa,แก้ไข,Merubah
+profile.fullname,Fullname,Họ và tên,ชื่อและนามสกุล,Nama lengkap
+profile.address,Address,Địa chỉ,ที่อยู่,Alamat
+profile.gender,Gender,Giới tính,เพศ,Seks
+profile.birthday,Birthday,Ngày sinh,วันเกิด,Tanggal lahir
+profile.submit,Submit,Cập nhật,อัพเดท,Memperbarui
+statistics_edit_content.add_report,Add Report,Thêm thống kê,เพิ่มสถิติ,Tambah statistik
+statistics_edit_content.embed_code,Power BI Link,Power BI Link,ลิงค์พาวเวอร์ BI,Kekuasaan Link BI
+statistics.add,Add,Thêm mới,เพิ่มใหม่,Tambah baru
+statistics.edit_content,Edit Content,Chỉnh sửa nội dung,แก้ไขเนื้อหา,Mengedit konten
+statistics.edit,Edit,Sửa,แก้ไข,Perbaikan
+statistics.title,Statistics,Thống kê,สถิติ,Statistik
+profile.fullname_length,Fullname length is incorrect,Độ dài tên không đúng,ความยาวของชื่อไม่ถูกต้อง,Nama panjang salah
+profile.address_length,Address length is incorrect,Độ dài địa chỉ không đúng,ความยาวของที่อยู่ไม่ถูกต้อง,Alamat  panjang salah
+profile.username_length,Username length is incorrect,Độ dài tên đăng nhập không đúng,ความยาวของชื่อผู้ใช้ไม่ถูกต้อง,Nama pengguna panjang salah
+profile.displayname_length,Displayname length is incorrect,Độ dài tên hiển thị không đúng,ความยาวของชื่อที่แสดงไม่ถูกต้อง,Nama tampilan panjang  salah
+profile.password_length,Password length is incorrect,Độ dài mật khẩu không đúng,ความยาวรหัสผ่านไม่ถูกต้อง, Kata sandi Panjang salah
+profile.avatar,Change avatar,Thay đổi ảnh đại diện,เปลี่ยนรูปประจำตัว,Mengubah avatar
+profile.male,Male,Nam,ชาย,Pria
+profile.female,Female,Nữ,หญิง,Perempuan
+profile.other,Other,Khác,อื่นๆ,Lain
+profile.display_name,Display name,Tên hiển thị,ชื่อที่แสดง,Nama tampilan
+profile.email,Email,Địa chỉ email,ที่อยู่อีเมล,Alamat email
+profile.phone,Phone,Điện thoại,โทรศัพท์,Telepon
+profile.current_password,Current password,Mật khẩu hiện tại,รหัสผ่านปัจจุบัน,kata sandi 
+profile.confirm_password,Confirm password,Xác nhận mật khẩu,ยืนยันรหัสผ่าน,Konfirmasi kata sandi
+profile.change_password,Change password,Thay đổi mật khẩu,เปลี่ยนรหัสผ่าน,Mengubah kata sandi
+profile.personality,Personality,Thông tin cá nhân,ข้อมูลส่วนบุคคล,Informasi pribadi
+profile.new_password,New password,Mật khẩu mới,รหัสผ่านใหม่,Kata sandi baru
+profile.confirm_password_validate,Confirm password must like new password,Mật khẩu xác nhận phải giống mật khẩu mới,รหัสผ่านยืนยันต้องเหมือนกับรหัสผ่านใหม่,Kata sandi yang konfirmasi harus sama dengan kata sandi baru
+profile.type_avatar,File import is not an image,Vui lòng chọn đúng file ảnh,โปรดเลือกไฟล์รูปภาพที่ถูกต้อง,Silakan pilih file gambar yang benar
+stock_issue_detail.export,Export CSV File,Xuất file CSV,ส่งออกไฟล์ CSV,Ekspor file CSV
+stock_issue_detail.empty_records,Have no orders yet,Không tồn tại bản ghi nào,ไม่มีบันทึก,Tidak ada yang catatan
+stock_issue_detail.orderId,ID Order,ID Order,รหัสคำสั่งซื้อ,Id pesanan
+stock_issue_detail.createdBy,Created By,Chốt đơn,ปิดคำสั่งซื้อ,Dapatkan pesanan
+stock_issue_detail.campaign,Source,Nguồn,ที่มา,Sumber
+stock_issue_detail.createdAt,Created Time,Ngày chốt đơn,วันปิดรับคำสั่งซื้อ,Tanggal dapatkan pesanan
+stock_issue_detail.deliveryDate,Delivery Date,Ngày hẹn giao,วันที่จัดส่ง,Tanggal janji pengiriman
+stock_issue_detail.contactName,Contact Name,Tên khách hàng,ชื่อลูกค้า,Nama Pelanggan
+stock_issue_detail.addOrder,Add Order,Thêm đơn,เพิ่มคำสั่งซื้อ,Tambahkan pesanan
+stock_issue_detail.status,Status,Trạng thái đơn,สถานะคำสั่งซื้อ,Status pesanan
+stock_issue_detail.contactPhone,Phone Number,Số điện thoại,หมายเลขโทรศัพท์,Nomor telepon
+stock_issue_detail.import_tracking_number_lbc,Import tracking number LBC,Nhập mã vận đơn từ LBC,ป้อนรหัสใบตราส่งสินค้าจาก LBC,Masukkan kode pesanan dari LBC
+stock_issue_detail.import_tracking_number_fail_list_title,Error information,Thông báo lỗi,ข้อความผิดพลาด,Pesanan keselahan
+stock_issue_detail.import_tracking_number_shippo,Import tracking number Shippo,Nhập mã vận đơn từ Shippo,ป้อนรหัสใบตราส่งสินค้าจาก Shippo,Masukkan kode pesanan dari Shippo
+stock_issue_detail.lbc_import_line,Line,Dòng,แถว,Baris
+stock_issue_detail.lbc_import_error,Error,Chi tiết lỗi,ข้อผิดพลาดโดยละเอียด,Rincian keselahan 
+stock_issue_detail.products,Product,Sản phẩm,สินค้า,Produk
+stock_issue_detail.courier,Courier,Đơn vị vận chuyển,หน่วยจัดส่ง,Pihak pengiriman
+stock_issue_detail.not_in_manila,Not in Manila,Ngoài Manila,นอกกรุงมะนิลา,Di luar Manila
+stock_issue_detail.ad_creator,Ads created by,Người tạo QC,ผู้สร้าง QC,Pembuat iklan
+stock_issue_detail.none_courier,None,Chưa có,ยังไม่พร้อมให้บริการ,Belum ada
+stock_issue_detail.title,Stock Issue Detail,Chi tiết phiếu xuất,รายละเอียดใบส่งของ,Rincina tagihan
+stock_issue_detail.select,Select,Lựa chọn,การคัดเลือก,Pilihan
+stock_issue_detail.district,District,Quận/Huyện,อำเภอ,Distrik
+stock_issue_detail.province,Province,Tỉnh/Thành phố,จังหวัด/เมือง,Provinsi/Kota
+stock_issue_detail.stock_issue,Stock issue,Phiếu xuất,ใบส่งของ,Tagihan
+stock_issue_detail.courier,Courier,Đơn vị vận chuyển,หน่วยจัดส่ง,Pihak pengiriman
+stock_issue_detail.payment_status,Payment status,Tình trạng thanh toán,สถานะการชำระเงิน,Status pembayaran
+stock_issue_detail.delete_order,Delete Orders,Xóa đơn,ลบคำสั่งซื้อ,Hapus Pesanan
+stock_receipts_detail.title,Stock Receipts Detail,Chi tiết phiếu nhập,รายละเอียดใบรับของ,Rincian tagihan masuk
+stock_receipts_detail.add_propduct,Add Product,Thêm sản phẩm,เพิ่มสินค้า,Produk lainnya
+stock_receipts_detail.edit_propduct,Edit Product,Chỉnh sửa sản phẩm,แก้ไขสินค้า,Mengedit produk
+add_order.title,Add Order,Thêm đơn,เพิ่มคำสั่งซื้อ,Tambahkan pesanan
+stock_issue.warehouse_id,Warehouse ID,Mã kho,รหัสคลังสินค้า,Kode stok
+stock_issue.created_at,Created at,Ngày tạo,วันที่สร้าง,Tanggal dibuat
+stock_issue.created_by,Created by,Người tạo,ผู้สร้าง,Orang dibuat
+stock_issue.status,Status,Trạng thái,สถานะ,Status
+stock_issue.carrier,Carrier,Đơn vị vận chuyển,หน่วยจัดส่ง,Pihak pengiriman
+stock_issue.stock_issue,Stock issues,Phiếu xuất,ใบส่งของ,Tagihan
+stock_issue.add_stock_issue,Add stock issue,Thêm phiếu xuất,เพิ่มใบส่งของ,Tambahkan eskpor tagihan 
+stock_issue.filter_result,Found no record,Không có phiếu xuất kho nào,ไม่มีใบส่งของ,Tidak ada tagihan yang pengiriman dari stok
+stock_issue.clear_filter,Clear all filters,Xóa bộ lọc,ลบฟิลเตอร์,Hapus filter
+stock_issue.order,Order,Số lượng đơn,จำนวนคำสั่งซื้อ,Jumlah pesanan
+stock_issue.stock_issue,STOCK ISSUES,Phiếu xuất,ใบส่งของ,Tagihan
+stock_issue.add_stock_issue,Add Stock Issue,Thêm phiếu xuất,เพิ่มใบส่งของ,Tambahkan tagihan
+stock_issue.search_id,Search Code,Tìm kiếm Code,ค้นหารหัส,Cari Kode
+stock_issue.new,New,Mới,ใหม่,Baru
+stock_issue.done,Done,Hoàn thành,เสร็จสิ้น,Selesai
+stock_issue.processing,Processing,Đang xử lý,กำลังดำเนินการ,Sedang proses
+stock_issue.filter,Filter,Bộ lọc,ฟิลเตอร์,Filter
+stock_issue.exported,Exported,Đã xuất,ส่งออก,Sudah ekspor
+stock_issue.not_export,Not Export,Chưa xuất,ยังไม่ส่งออก,Belum diekspor
+stock_issue.finish,Finish,Hoàn thành,เสร็จสิ้น,Selesai
+stock_issue.title,Stock issue,Danh sách phiếu xuất,รายการใบส่งของ,Daftar tagihan ekspor
+stock_issue.id,StockIssue Code,Mã phiếu xuất,รหัสใบส่งของ,Kode tagihan
+stock_issue.new_stock_issue,New StockIssue,Phiếu xuất mới,ใบส่งของใหม่,Tagihan eskpor baru
+stock_issue.question,Which warehouse would you like to export?,Bạn muốn xuất hàng từ kho nào?,คุณต้องการส่งของออกจากคลังสินค้าใด,Anda ingin mengekspor barang dari Stok yang mana ?
+stock_issue.status,Status,Trạng thái,สถานะ,Status
+products.product,Product,Sản phẩm,สินค้า,Produk
+products.search_product,Search product,Tìm kiếm sản phẩm,ค้นหาสินค้า,Cari produk
+products.search_sku,Search sku,Tìm kiếm sku,ค้นหา sku,Cari sku
+products.instock,In stock,Tồn kho,สินค้าคงคลัง,Inventaris
+products.invoices,Invoices,Trong phiếu xuất,ในใบส่งของ,Dalam tagihan ekspor
+products.products,Products,Danh sách sản phẩm,รายการสินค้า,Daftar produk
+products.result_product,Found no record,Không có sản phẩm nào,ไม่มีสินค้า,Tidak ada produk
+products.result_sku,Found no record,Không có sku nào,ไม่มี sku,Tidak ada sku
+products.variant,Variant,Biến thể,ตัวแปร,Varian
+products.manufactory,Manufactory,Nhà sản xuất,ผู้ผลิต,Pabrik
+products.vendor,Vendor,Đối tác,พันธมิตร,Pasangan
+products.status,Status,Trạng thái,สถานะ,Status
+products.add_user,Add User,Thêm nhân viên,พนักงานเพิ่มเติม,Tambahkan staf
+products.permission,Permission,Phân quyền,การกระจายอำนาจ,Desentralisasi
+products.properties,Properties,Thuộc tính,คุณสมบัติ,Kuantitas
+products.name_length,The length of name field maximum 160 characters,Độ dài tên tối đa 160 ký tự,ชื่อยาวสูงสุด 160 ตัวอักษร,Nama panjang  maksimum 160 karakter
+products.code_length,The length of code field maximum 160 characters,Độ dài code tối đa 160 ký tự,ความยาวรหัสสูงสุด 160 ตัวอักษร,Kode panjang maksimum 160 karakter
+products.price_length,The length of price field maximum 6 characters,Độ dài giá tiền tối đa 6 ký tự,ความยาวราคาสูงสุด 6 ตัวอักษร,Harga panjang  maksimum 6 karakter
+products.manufactory_length,The length of manufactory field maximum 160 characters,Độ dài nhà sản xuất tối đa 160 ký tự,ผู้ผลิตความยาวสูงสุด 160 ตัวอักษร,Nama pabrikan panjang maksimum 160 karakter
+products.msg_require_select_vendor,Please select a vendor for this action,Vui lòng chọn một đối tác trước khi thực hiện thao tác này,โปรดเลือกพันธมิตรก่อนดำเนินการนี้,Silakan pilih cara yang dulu sebelum melakukan operasi ini
+products.selling,Selling status,Trạng thái bán,สถานะการขาย,Status penjualan
+products.add_group,Add Group,Thêm nhóm,เพิ่มกลุ่ม,Tambahkan grup
+products.group_id,Group id,Id nhóm,รหัสกลุ่ม,ID grup
+products.group_name,Group name,Tên nhóm,ชื่อกลุ่ม,Nama grup
+products.group_added,Group added,Nhóm đã được thêm,เพิ่มกลุ่มแล้ว,Grup telah ditambahkan
+products.added_by,Added by,Được thêm bởi,เพิ่มโดย,Deskripsi oleh
+products.added_at,Added at,Được thêm lúc,เพิ่มโดยเวลา,Ditambahkan pada waktu
+products.name_or_code,Name/Code,Tên/Mã,ชื่อ/รหัส,Nama /kode
+products.created_by,Created by,Người tạo,ผู้สร้าง,Orang dibuat
+products.created_at,Created At,Thời gian tạo,Created At,Created At
+products.name,Name,Tên,ชื่อ,Nama
+products.code,Code,Mã,รหัส,Kode
+products.description,Description,Mô tả,อธิบาย,Menggambarkan
+products.price,Unit price,Giá,ราคา,Harga
+products.sell_status,Sell status,Trạng thái bán,สถานะการขาย,Status penjualan
+products.select_all,Select all,Chọn tất cả,เลือกทั้งหมด,Pilih Semua
+products.active,Active,Kích hoạt,เปิดใช้งานแล้ว,Diaktifkan
+products.inactive,Inactive,Ngưng kích hoạt,ปิดการใช้งาน,Berhenti aktifkan
+products.enter_attr_key,Enter attribute name ,Nhập tên thuộc tính,ใส่ชื่อคุณสมบัติ,Masukkan nama kuantitas
+products.enter_name,Enter name,Nhập tên,ใส่ชื่อ,Masukkan nama
+products.enter_manufactory,Enter manufactory,Nhập nhà sản xuất,ใส่ผู้ผลิต,Masukkan nama pabrik
+products.enter_code,Enter code,Nhập mã,ใส่รหัส,Masukan kode
+products.enter_description,Enter description,Nhập mô tả,ใส่คำอธิบาย,Masukkan deskripsi
+products.enter_price,Enter price,Nhập giá,ใส่ราคา,Masukkan harga
+products.enter_attr_value,Enter attribute value,Nhập giá trị thuộc tính,ใส่ค่าคุณสมบัติ,Masukkan nilai kuantitas
+products.select_group,Select group,Chọn nhóm,เลือกกลุ่ม,Pilih grup
+products.page_title,Add product,Thêm sản phẩm,เพิ่มสินค้า,Produk lainnya
+products.page_edit_title,Edit product,Sửa sản phẩm,แก้ไขสินค้า,Mengedit produk
+products.vendor_code,Code,Mã,รหัส,Kode
+products.vendor_name,Name,Tên,ชื่อ,Nama
+products.vendor_owner,Manager,Quản lý,ผู้จัดการ,Menejemen
+products.vendor_created_at,Created at,Ngày tạo,วันที่สร้าง,Orang dibuat
+products.add_vendor,Add vendor,Thêm vendor,เพิ่มผู้ขาย,Tambahkan vendor
+products.select_vendor,Select vendor,Chọn vendor,เลือกผู้ขาย,Pilih vendor
+products.confirm_remove_vendor,Are you sure you want to perform this action?,Bạn có chắc chắn muốn thực hiện thao tác này,คุณแน่ใจหรือไม่ว่าต้องการดำเนินการนี้,Apakah Anda yakin ingin melakukan ini?
+products.remove_vendor_success,Removed successfully,Xóa vendor thành công,ลบผู้ขายเรียบร้อยแล้ว,Hapus vendor berhasil
+products.add_vendor_success,Added successfully,Thêm vendor thành công,เพิ่มผู้ขายเรียบร้อยแล้ว,Menambahkan vendor berhasil 
+products.local_name,Local name,Tên địa phương,ชื่อท้องถิ่น,Nama Panggilan
+products.search_name_code,Product Name/Code,Tên/ Mã sản phẩm,Product Name/Code,Product Name/Code
+products.search_name_code_sku_pl,Search Product Name/Code/SKU,Tìm kiếm theo Tên sản phẩm/Mã sản phẩm/SKU,Search Product Name/Code/SKU,Search Product Name/Code/SKU
+products.group,Category,Nhóm sản phẩm,Category,Category
+products.sku_quantity,SKU Quantity,Số lượng SKU,SKU Quantity,SKU Quantity
+products.campaign_quantity,Campaign Quantity,Số lượng chiến dịch,Campaign Quantity,Campaign Quantity
+product.categories,Category,Loại sản phẩm,Category,Category
+product.category,Category,Loại sản phẩm,Category,Category
+product.sku_pl,Enter SKU code,Nhập mã SKU,Enter SKU code,Enter SKU code
+message_add_contact.exist_product,Contact already exists. Do you want to continue?,Contact đã tồn tại trên hệ thống. Bạn có muốn tiếp tục?,ผู้ติดต่อมีอยู่แล้วในระบบ คุณต้องการดำเนินการต่อหรือไม่,Kontak sudah ada di sistem. Apakah Anda ingin melanjutkan?
+message_add_contact.title,Notice,Thông báo,การแจ้งเตือน,Pemberitahuan
+stock_receipt.select_product,Select product,Chọn sản phẩm,เลือกสินค้า,Pilih produk
+stock_receipt.add_product,Add Product,Thêm sản phẩm,เพิ่มสินค้า,Produk lainnya
+stock_receipt.title,Stock receipt,Danh sách phiếu nhập,รายการใบรับของ,Daftar tagihan masuk
+stock_receipt.stock_receipt,STOCK RECEIPTS,Phiếu nhập,ใบรับของ,Tagihan masuk
+stock_receipt.filter_result,Found no record,Không có phiếu nhập kho nào,ไม่มีใบรับของ,Tidak dapatkan tagihan masuk stock
+stock_receipt.created_by,Created by,Người tạo,ผู้สร้าง,Orang Dibuat
+stock_receipt.created_at,Created at,Ngày tạo,วันที่สร้าง,Tanggal Dibuat
+stock_receipt.status,Status,Trạng thái,สถานะ,Status
+stock_receipt.add_stock_receipt,Add Stock Receipts,Thêm phiếu nhập,เพิ่มใบรับของ,Tambahkan tagihan masuk
+stock_receipt.new,New,Mới,ใหม่,Baru
+stock_receipt.done,Done,Hoàn thành,เสร็จสิ้น,Selesai
+stock_receipt.processing,Processing,Đang xử lý,กำลังดำเนินการ,Sedang proses
+stock_receipt.search_id,Search Code,Tìm kiếm mã,ค้นหารหัส,Cari kode
+stock_receipt.id,StockReceipt Code,Mã phiếu nhập,รหัสใบรับของ,Kode tagihan masuk
+stock_receipt.clear_filter,Clear all filters,Xóa bộ lọc,ลบฟิลเตอร์,Hapus filter
+stock_receipt.product,product,sản phẩm,สินค้า,Produk
+stock_receipt.products,products,sản phẩm,สินค้า,Produk
+stock_receipt.receipt_type,Receipt Type,Loại nhập,ประเภทอินพุต,Jenis masukan
+stock_receipt.question,Which warehouse would you like to import?,Bạn muốn nhập hàng vào kho nào?,คุณต้องการนำเข้าสินค้าเข้าในคลังสินค้าใด,Di gudang mana Anda ingin masukan barang?
+stock_receipt.validate_sku,Please enter at least the price and quantity of 1 property,Vui lòng nhập tối thiểu giá và số lượng của 1 thuộc tính,กรุณาใส่ราคาขั้นต่ำและจำนวน 1 คุณสมบัติ,Silakan masukkan harga dan jumlah minimum dalam 1 kuantitas
+receipt_type.INTERNAL,Internal,Nhập nội bộ,นำเข้าภายใน,Impor Pribadi
+receipt_type.EXTERNAL,External,Nhập ngoài,นำเข้าภายนอก,Impor dari keluar
+import_tracking_more.title,Import tracking number,Nhập mã vận chuyển,ใส่รหัสการจัดส่ง,Masukkan kode pengiriman
+import_tracking_more.select_carrier,Select Carrier,Chọn đơn vị vận chuyển,เลือกหน่วยจัดส่ง,Pilih pihak pengiriman
+import_tracking_more.download,Download example file,Tải file mẫu,ดาวน์โหลดไฟล์ตัวอย่าง,Unduh file sampel
+import_tracking_more.upload,Choose file,Chọn file,เลือกไฟล์,Pilih file
+add_product_popup.unitprice,Unit price,Giá đề nghị,ราคาแนะนำ,Harga yang disarankan
+add_product_popup.note,Add properties if the product has multiple properties,Thêm thuộc tính nếu sản phẩm có nhiều thuộc tính,เพิ่มคุณสมบัติหากผลิตภัณฑ์มีหลายคุณสมบัติ,Tambahkan kuantitas jika produk memiliki banyak kuantitas
+add_product_popup.detail_property,Detail,Chi tiết thuộc tính,รายละเอียดคุณสมบัติ,Rincian Kuantitas
+receipt_reload.content,You have unsaved changes. Would you like to continue?,Bạn chưa lưu các thay đổi. Bạn có muốn tiếp tục?,คุณยังไม่ได้บันทึกการเปลี่ยนแปลง คุณต้องการดำเนินการต่อหรือไม่,Anda belum menyimpan perubahan. Apakah Anda ingin melanjutkan?
+add_product.exist_user,User is already added,Nhân viên đã được thêm trước đó,พนักงานได้เพิ่มก่อนหน้านี้,Karyawan telah ditambahkan sebelumnya
+add_product.exist_product,Product is existed,Sản phẩm đã tồn tại,สินค้ามีอยู่แล้ว,Produk sudah ada
+group_user.header,GROUPS,NHÓM NHÂN VIÊN,ทีมพนักงาน,GRUP KARYAWAN
+group_user.create,Create Group,Thêm nhóm,เพิ่มกลุ่ม,Tambahkan grup
+group_user.edit,Update Group,Sửa nhóm,แก้ไขกลุ่ม,Mengedit grup
+group_user.search,Search group,Tìm kiếm nhóm,ค้นหากลุ่ม,Pencarian Grup
+group_user.group,Groups,Tên nhóm,ชื่อกลุ่ม,Nama grup
+group_user.members,Members,Số lượng,จำนวนเงิน,Jumlah
+group_user.created_by,Created by,Người tạo,ผู้สร้าง,Orang Dibuat
+group_user.created_at,Created at,Ngày tạo,วันที่สร้าง,Tanggal Dibuat
+group_user.name,Name,Tên nhóm,ชื่อกลุ่ม,Nama grup
+group_user.title,Groups,Danh sách nhóm nhân viên,รายชื่อกลุ่มพนักงาน,Daftar  grup karyawan
+group_user.display_name,Display Name,Tên hiển thị,ชื่อที่แสดง,Nama tampilan
+group_user.member,Members,Thành viên,สมาชิก,Anggota
+group_user.add,Add User,Thêm thành viên,เพิ่มสมาชิก,Tambah anggota
+group_user.group_header,Group,Nhóm,กลุ่ม,Grup
+group_user.create_popup,Create,Thêm,สร้างเพิ่ม,Tambahkan
+group_user.edit_popup,Edit,Sửa,แก้ไข,Perbaikan
+group_user.name_existed,The group has been existed,Nhóm này đã tồn tại,มีกลุ่มนี้อยู่แล้ว,Grup ini sudah ada
+group_user.confirm_delete,Are you sure you want to perform this operation?,Bạn có chắc chắn muốn thực hiện thao tác này,คุณแน่ใจหรือไม่ว่าต้องการดำเนินการนี้,Apakah Anda yakin ingin melakukan ini?
+group_user.vendor,Vendor,Đối tác,พันธมิตร,Pasangan
+group_user.page_detail_title,Group,Nhóm,กลุ่ม,Grup
+group_user.leader,Leader,Trưởng nhóm,หัวหน้า,Pemimpin
+statistic.name,Statistic Name,Tên thống kê,ชื่อทางสถิติ,Nama statistik
+statistic.script,Statistic Script,Mã thống kê,รหัสสถิติ,Kode Statistik
+statistic.statistic,STATISTICS,THỐNG KÊ,สถิติ,STATISTIK
+statistic.add,Add statistic,Thêm thống kê,เพิ่มสถิติ,Tambahkan statistik
+statistic.edit,Edit statistic,Sửa thống kê,แก้ไขสถิติ,Mengedit statistik
+statistic.id,ID,ID,ไอดี,ID
+statistic.created_at,Created At,Ngày tạo,วันที่สร้าง,Tanggal Dibuat
+statistic.created_by,Created By,Người tạo,ผู้สร้าง,Orang Dibuat
+statistic.title_add,Add Statistic,Thêm thống kê,เพิ่มสถิติ,Tambahkan statistik
+statistic.title_edit,Edit Statistic,Sửa thống kê,แก้ไขสถิติ,Mengedit statistikstat
+statistic.cancel,Cancel,Hủy bỏ,ยกเลิก,Batal
+statistic.finish,Finish,Hoàn thành,เสร็จสิ้น,Selesai
+statistic.list,Statistic List,Danh sách thống kê,รายการสถิติ,Daftar statistik
+statistic.list_title,STATISTIC LIST,DANH SÁCH THỐNG KÊ,รายการสถิติ,DAFTAR STATISTIK
+statistic.lists,Statistic List,Danh sách thống kê,รายการสถิติ,Daftar statistik
+statistic.detail,Statistic Detail,Chi tiết thống kê,รายละเอียดทางสถิติ,Rincian statistik
+statistic.vendor,Vendor,Đối tác,พันธมิตร,Pasangan
+statistic.select_statistic,Select statistic,Đối tác,พันธมิตร,Pasangan
+statistic.search_name,Search name,Tìm kiếm tên,ค้นหาชื่อ,Cari nama
+statistic.name_placeholder,Enter name of statistic,Nhập tên thống kê,ใส่ชื่อสถิติ,Masukkan nama statistik
+statistic.script_placeholder,Enter name of script,Nhập mã thống kê,ใส่รหัสสถิติ,Masukkan kode statistik
+vendor.vendor_detail,Vendor Detail,Chi tiết thông tin đối tác,Vendor Detail,Vendor Detail
+vendor.title,Vendor,Đối tác,พันธมิตร,Mitra
+vendor.manager,Manager,Người quản trị,ผู้จัดการ,Orang menejemen
+vendor.name,Vendor name,Tên đối tác,ชื่อพันธมิตร,Nama mitra
+vendor.code,Code,Mã,รหัส,Kode
+vendor.added_by,Added by,Người thêm,ผู้สร้าง,Orang Dibuat
+vendor.added_at,Added at,Ngày thêm,วันที่สร้าง,Tanggal Dibuat
+vendor.list,Vendor,Danh sách đối tác,รายชื่อพันธมิตร,Daftar Mitra
+vendor.create,Add vendor,Thêm đối tác,เพิ่มพันธมิตร,Tambahkan nama mitra
+vendor.edit,Edit vendor,Sửa đối tác,แก้ไขพันธมิตร,Mengedit mitra
+vendor.delete,Delete vendor,Xóa đối tác,ลบพันธมิตร,Hapus mitra
+vendor.add_user_title,Vendor | Add user,Đối tác | Thêm người dùng,พันธมิตร | เพิ่มผู้ใช้,Mitra | Tambahkan pengguna
+vendor.add_user,Add user,Thêm người dùng,เพิ่มผู้ใช้,Tambahkan pengguna
+vendor.search_user,Search user,Tìm kiếm người dùng,ค้นหาผู้ใช้,Cari pengguna
+vendor.roles,Roles,Vai trò,บทบาท,Wewenang
+vendor.btn_clear,Clear all filters,Xóa người dùng,ลบผู้ใช้,Hapus pengguna
+vendor.username,Username,Tên đăng nhập,ชื่อผู้ใช้,Nama pengguna
+vendor.email,Email,Địa chỉ email,ที่อยู่อีเมล,Alamat email
+vendor.select,Select,Chọn,เลือก,Memilih
+vendor.name_length,The length of name field maximum 160 characters,Độ dài tên tối đa 160 ký tự,ชื่อยาวสูงสุด 160 ตัวอักษร, Nama panjang maksimum 160 karakter
+vendor.code_length,The length of code field maximum 10 characters,Độ dài code tối đa 10 ký tự,ความยาวรหัสสูงสุด 10 ตัวอักษร,Kode panjang maksimum 10 karakter
+vendor.add_user_alert,You can not add greater 10 users to vendor in one time,Bạn không thể thêm quá 10 người vào vendor trong 1 thời điểm,คุณไม่สามารถเพิ่มผู้ใช้มากกว่า 10 รายให้กับผู้ขายในครั้งเดียว,Anda tidak dapat menambahkan lebih dari 10 orang ke vendor dalam waktu
+vendor.country,Country,Quốc gia,ประเทศ,Bangsa
+vendor.role,Role,Vai trò,บทบาท,Wewenang
+vendor.select_all,Select all,Chọn tất cả,เลือกทั้งหมด,Pilih Semua
+vendor.telesale,Telesale,Bán hàng,เทเลเซลล์,Menjual
+vendor.telesale_leader,Telesale Leader,Trưởng nhóm bán hàng,หัวหน้าทีมเทเลเซลล์,Ketua Tim Penjualan
+vendor.marketer,Marketer,Tiếp thị,นักการตลาด,Pemasaran
+vendor.marketer_leader,Maketer Leader,Trưởng nhóm tiếp thị,หัวหน้าทีมการตลาด,Pemimpin tim pemasaran
+vendor.warehouse,Warehouse,Kho,คลังสินค้า,Gudang
+vendor.internship,Internship,Thực tập,ฝึกงาน,Intership
+vendor.admin,Admin,Quản lý,ผู้ดูแลระบบ,Menejemen
+vendor.administrator,Administrator,Quản lý,ผู้ดูแลระบบ,Menejemen
+vendor.package,Package,Gói,แพ็คเกจ,Paket
+vendor.source_package,Source package,Gói tài nguyên,แพ็คเกจทรัพยากร,Paket sumber daya
+vendor.code,Vendor code,Mã đối tác,รหัสพันธมิตร,Kode mitra
+vendor.select_vendor,Select vendor,Chọn đối tác,เลือกพันธมิตร,Pilih mitra
+vendor.users,Users,Người dùng,ผู้ใช้,Pengguna
+vendor.not_in,You are not in any Vendor. Please contact to the adminstrator,Bạn chưa được thêm vào bất kỳ đối tác nào. Vui lòng liên hệ với quản trị viên,คุณยังไม่ได้ถูกเพิ่มในพันธมิตรใดๆ โปรดติดต่อผู้ดูแลระบบ,Anda belum ditambahkan ke mitra mana pun. Silahkan hubungi admin
+vendor.select_manager,Select manager,Chọn người quản trị,เลือกผู้ดูแลระบบ,Pilih administrator
+vendor.select_package,Select package,Chọn gói,เลือกแพ็คเกจ,Pilih paket
+vendor.select_country,Select country,Chọn quốc gia,เลือกประเทศ,Pilih negara
+vendor.select_role,Select role,Chọn vai trò,เลือกบทบาท,Pilih wewenang
+vendor.input_name,Please input your name,Vui lòng nhập tên đối tác,กรุณากรอกชื่อของคุณ,Silahkan masukan nama anda
+vendor.input_code,Please input your code,Vui lòng nhập mã đối tác,กรุณาใส่รหัสพันธมิตร,Silakan masukkan kode mitra
+vendor.select_manager_validate,Please select your manager,Vui lòng chọn người quản trị,กรุณาเลือกผู้ดูแลระบบ,Silakan pilih administrator
+vendor.select_package,Please select your package,Vui lòng chọn gói,กรุณาเลือกแพ็คเกจ,Silahkan pilih paket
+vendor.select_country_validate,Please select your country,Vui lòng chọn quốc gia,กรุณาเลือกประเทศ,Silakan pilih negara
+vendor.select_role,Please select your role,Vui lòng chọn vai trò,กรุณาเลือกบทบาท,Silakan pilih wewenang
+vendor.name_length,Name cannot be longer than 160 characters,Tên không thể dài hơn 160 ký tự,ชื่อต้องมีความยาวไม่เกิน 160 ตัวอักษร,Nama tidak boleh lebih dari 160 karakter
+vendor.code_length,Code cannot be longer than 10 characters,Mã đối tác không thể dài hơn 10 ký tự,รหัสพันธมิตรต้องมีความยาวไม่เกิน 10 ตัวอักษร,Kode mitra tidak boleh lebih dari 10 karakter
+vendor.name_code_filter,Seach name or code of vendor,Tìm kiếm tên hoặc mã của đối tác,ค้นหาชื่อหรือรหัสของพันธมิตร,Cari nama atau kode mitra
+vendor.filter_button,Filter,Lọc,ฟิลเตอร์,Filter
+vendor.clear_button,Clear,Xóa,ลบ,Menghapus
+vendor.name_vendor,Name,Tên,ชื่อ,Nama
+vendor.code_vendor,Code,Mã,รหัส,Kode
+vendor.name_placeholder,Enter name of vendor,Nhập tên đối tác,ใส่ชื่อพันธมิตรของคุณ,Masukkan nama mitra Anda
+vendor.code_placeholder,Enter code of vendor,Nhập mã đối tác,ใส่รหัสพันธมิตร,Masukkan kode mitra
+vendor.admin_placeholder,Enter admin of vendor,Nhập quản lý,Enter admin of vendor,Enter admin of vendor
+vendor.client_id_placeholder,Enter client Id of vendor,Nhập Client Id,Enter client Id of vendor,Enter client Id of vendor
+vendor.client_id_existed,Client Id is already existed,Client Id đã tồn tại,Client Id is already existed,Client Id is already existed
+vendor.vendor_existed,Vendor code is already existed,Mã đối tác đã tồn tại,Vendor code is already existed,Vendor code is already existed
+vendor.client_secret_placeholder,Enter client secret of vendor,Nhập client secret,Enter client secret of vendor,Enter client secret of vendor
+vendor.courier,Courier,Đơn vị vận chuyển,หน่วยจัดส่ง,Satuan pengiriman
+vendor.select_courier_validate,Please select courier,Vui lòng chọn đơn vị vận chuyển,กรุณาเลือกหน่วยจัดส่ง,Silakan pilih perusahaan pengiriman
+vendor.select_courier,Select courier,Chọn đơn vị vận chuyển,เลือกหน่วยจัดส่ง,Pilih pihak pengiriman
+vendor.phone,Phone,Số điện thoại,โทรศัพท์,Phone
+vendor.status,Status,Trạng thái,สถานะ,Status
+vendor.phone_filter,Search phone of vendor,Tìm kiếm số điện thoại của đối tác,ค้นหาโทรศัพท์ของผู้ขาย,Search phone of vendor
+vendor.created_at,Created at,Thời gian tạo,สร้างที่,Created at
+vendor.country,Country,Quốc gia,ประเทศ,Country
+vendor.user_validate,Can't empty,Username không được trống,ว่างเปล่าไม่ได้,can't empty
+vendor.client_id,Client ID,Client ID,Client ID,Client ID
+vendor.client_secret,Client Secret,Client Secret,Client Secret,Client Secret
+vendor.client_url,App URL,App URL,App URL,App URL
+vendor.search,Search Vendor...,Tìm đối tác...,Search Vendor...,Search Vendor...
+setting.time_zone,Time zone,Thời gian theo khu vực,เวลาตามภูมิภาค,Waktu menurut wilayah
+setting.select_timezone,Select the time zone,Lựa chọn múi giờ,เลือกเขตเวลา,Pilih zona waktu
+setting.contact_setting,Contact setting,Thiết lập contact,ตั้งค่าผู้ติดต่อ,Siapkan kontak
+setting.quantity_length,The length of quantity field maximum 3 characters,Độ dài số lượng contact tối đa 3 ký tự,ความยาวจำนวนผู้ติดต่อสูงสุด 3 ตัวอักษร,Panjang kontak maksimum adalah 3 karakter
+setting.maximum_length,The length of maximum field maximum 3 characters,Độ dài contact chưa gọi tối đa 3 ký tự,ความยาวของผู้ติดต่อที่ไม่ได้โทรสูงสุด 3 ตัวอักษร,Panjang kontak maksimum yang tidak dipanggil adalah 3 karakter ký
+setting.quantity_number,The quantity must be a number,Số lượng contact phải là dạng số,จำนวนผู้ติดต่อต้องเป็นตัวเลข,Jumlah kontak harus numerik
+setting.maximum_number,The maximum must be a number,Số lượng contact chưa gọi phải là dạng số,จำนวนผู้ติดต่อที่ไม่ได้โทรจะต้องอยู่ในรูปของตัวเลข,Jumlah kontak yang belum terpanggil harus berupa angka
+setting.contact_quantity,Contact numbers can be received each time,Số lượng contact có thể nhận được mỗi lần,จำนวนผู้ติดต่อที่สามารถรับได้ในแต่ละครั้ง,Jumlah kontak yang dapat diterima sekaligus
+setting.contact_maximum,The maximum number of contacts not called to receive more contact,Số contact tối đa chưa gọi để có thể nhận thêm contact,จำนวนผู้ติดต่อสูงสุดที่ไม่ได้โทรเพื่อรับผู้ติดต่อเพิ่ม,Jumlah maksimum kontak yang belum dipanggil untuk menerima lebih banyak kontak
+setting.notselected_timezone,You have not selected the time zone,Bạn chưa chọn thời gian theo khu vực,คุณยังไม่ได้เลือกเวลาตามภูมิภาค,Anda belum memilih waktu berdasarkan wilayah
+setting.cancel,Cancel,Hủy,ยกเลิก,Batal
+setting.save,Save,Lưu,บันทึก,Menyimpan
+setting.setting,Setting,Cài đặt,การตั้งค่า,Pengaturan
+setting.time_zone_select,Select time zone,Chọn khu vực,เลือกภูมิภาค,Pilih wilayah
+page.home,Home,Trang chủ,หน้าแรก,Halaman rumah
+page.product,Product,Sản phẩm,สินค้า,Produk
+checkbox.all,All,Tất cả,ทั้งหมด,Semua
+redirect_buffer.description,Website is redirecting. Please wait a moment,Đang chuyển trang. Vui lòng đợi một chút,เว็บไซต์กำลังเปลี่ยนเส้นทาง โปรดรอสักครู่,Sedang pindah halaman. Tolong tunggu sebentar
+telesale.select_vendor,Select vendor,Chọn vendor,เลือกผู้ขาย,Pilih vendor
+placeholder.select_country,Select country,Chọn quốc gia,เลือกประเทศ,Pilih negara
+placeholder.select_province,Select province,Chọn tỉnh/thành phố,เลือกจังหวัด/เมือง,Pilih provinsi/kota
+placeholder.select_city,Select city,Chọn quận/huyện,เลือกอำเภอ/เขต,Pilih kabupaten/kabupaten
+placeholder.select_area,Select area,Chọn vùng,เลือกภูมิภาค,Pilih wilayah
+placeholder.select_user,Search user,Tìm kiếm user,Search user,Search user
+placeholder.select_marketer,Search Marketer,Chọn người Tiếp thị,Search Marketer,Search Marketer
+product.price_policy_title,Product price policy,Chính sách giá bán sản phẩm,นโยบายราคาสินค้า,Product price policy
+product.price_policy_table,List of price policy,Chính sách giá bán,รายการนโยบายราคา,List of price policy
+contactDetail.addEventModalTitle,Add event,Thêm sự kiện,เพิ่มกิจกรรม,Add event
+contact-detail.total_quantity,Total quantity,Tổng số lượng,ปริมาณทั้งหมด,Total quantity
+contact-detail.price_policy,Price Policy,Chính sách giá,Price Policy,Price Policy
+contact-detail.total_payment,Total payment,Tổng tiền thanh toán,การชำระเงินทั้งหมด,Total payment
+contact-detail.total_payment_required,Please enter total payment,Vui lòng nhập tổng tiền thanh toán,กรุณาระบุยอดชำระ,Please enter total payment
+contact-detail.call_status_required,Please choose status,Vui lòng chọn trạng thái cuộc gọi,กรุณาเลือกสถานะ,Please choose status
+contact-detail.appointment_required,Please select the appointment date,Vui lọng chọn hẹn,กรุณาเลือกวันที่นัดหมาย,Please select the appointment date
+contact-detail.campaign_ad_required,Please select the campaign ads,Vui lòng chọn chiến dịch,โปรดเลือกโฆษณาของแคมเปญ,Please select the campaign ads
+contact-detail.district_required,Please select district,Vui lòng chọn quận/huyện,กรุณาเลือกอำเภอ,Please select district
+contact-detail.area_required,Please input the area,Vui lòng nhập vùng,กรุณาระบุพื้นที่,Please input the area
+contact_detail.change_logging,"{{timestampz}} on system <strong>{{module}}</strong>, <strong>{{actor}}</strong> change<br/><% _.forEach(changes, function(change) { %><strong>{{change.key}}</strong> from <strong>{{change.left}}</strong> to <strong>{{change.right}}</strong><br/> <% }); %>","{{timestampz}} tại hệ thống <strong>{{module}}</strong>, <strong>{{actor}}</strong> thay đổi<br/><% _.forEach(changes, function(change) { %><strong>{{change.key}}</strong> từ <strong>{{change.left}}</strong> thành <strong>{{change.right}}</strong><br/> <% }); %>","{{timestampz}} on system <strong>{{module}}</strong>, <strong>{{actor}}</strong> change<br/><% _.forEach(changes, function(change) { %><strong>{{change.key}}</strong> from <strong>{{change.left}}</strong> to <strong>{{change.right}}</strong><br/> <% }); %>","{{timestampz}} on system <strong>{{module}}</strong>, <strong>{{actor}}</strong> change<br/><% _.forEach(changes, function(change) { %><strong>{{change.key}}</strong> from <strong>{{change.left}}</strong> to <strong>{{change.right}}</strong><br/> <% }); %>"
+contact_detail.change_event,"{{timestampz}} on system <strong>{{module}}</strong>, <strong>{{actor}}</strong> creates call with status: <strong>{{status}}</strong> to phone number: <strong>{{phone}}</strong>","{{timestampz}} tại hệ thống <strong>{{module}}</strong>, <strong>{{actor}}</strong> tạo cuộc gọi với trạng thái: <strong>{{status}}</strong> đến số điên thoại: <strong>{{phone}}</strong>","{{timestampz}} on system <strong>{{module}}</strong>, <strong>{{actor}}</strong> creates call with status: <strong>{{status}}</strong> to phone number: <strong>{{phone}}</strong>","{{timestampz}} on system <strong>{{module}}</strong>, <strong>{{actor}}</strong> creates call with status: <strong>{{status}}</strong> to phone number: <strong>{{phone}}</strong>"
+contact_activity.name,name,tên,name,name
+contact_activity.note,note,ghi chú,note,note
+contact_activity.province,province,tỉnh/ thành phố,province,province
+contact_activity.district,district,quận/ huyện,district,district
+contact_activity.ward,Ward,Phường/ xã,Ward,Ward
+contact_activity.address,complete address,địa chỉ,complete address,complete address
+contact_activity.status,status,trạng thái,status,status
+contact_activity.city,city,thành phố,city,city
+contact_activity.assignee,assignee,người được chọn,assignee,assignee
+contact_activity.isSpam,remark,remark,remark,remark
+delivery_case.title,Delivery case,Delivery case,Delivery case,Delivery case
+delivery_case.code,Delivery Case Code,Mã delivery case,Delivery Case Code,Delivery Case Code
+delivery_case.code_pl,Enter delivery case code,Nhập mã delivery case,Enter delivery case code,Enter delivery case code
+delivery_case.order_pl,Enter order code,Nhập mã đơn hàng,Enter order code,Enter order code
+delivery_case.assignee,Assignee,Người được chọn,Assignee,Assignee
+delivery_case.asignee_pl,Select assignee,Lựa chọn người được chọn,Select assignee,Select assignee
+delivery_case.has_delivery_case,Have delivery case,Có delivery case,มีกล่องจัดส่ง,Have delivery case
+delivery_case.no_delivery_case,Not have delivery case,Không có delivery case,ไม่มีกรณีการจัดส่ง,Not have delivery case
+delivery_case.reason_pl,Select reason,Lựa chọn lý do,Select reason,Select reason
+delivery_case.tracking_number_pl,Select tracking number,Lựa chọn tracking number,Select tracking number,Select tracking number
+delivery_case.import,Import delivery case,Import delivery case,Import delivery case,Import delivery case
+delivery_case.status_error,Error status,Trạng thái lỗi,Error status,Error status
+delivery_case.required_file,You have to upload file delivery cases,Bạn phải tải lên file delivery cases,You have to upload file delivery cases,You have to upload file delivery cases
+order_import.required_file,You have to upload file order financial status,Bạn phải tải lên file order financial status,You have to upload file order financial status,You have to upload file order financial status
+delivery_case.status_import,Delivery case status,Trạng thái delivery case,Delivery case status,Delivery case status
+delivery_case.status_success,Success,Thành công,success,success
+delivery_case.status_fail,Import fail,Thất bại,Import fail,Import fail
+customer.title,Subscribers,Danh sách khách hàng,ลูกค้า,Subscribers
+customer.name,Name,Tên khách hàng,ชื่อ,Name
+customer.phone,Phone,Số điện thoại,โทรศัพท์,Phone
+customer.email,Email,Email,อีเมล,Email
+customer.status,Status,Trạng thái,สถานะ,Status
+subscriber.title,Subscribers,Danh sách khách hàng,ลูกค้า,Subscribers
+subscriber.name_filter,Search name of subscriber,Tìm kiếm theo tên,ค้นหาชื่อลูกค้า,Search name of subscriber
+subscriber.email_filter,Search email of subscriber,Tìm kiếm theo email,ค้นหาอีเมลของลูกค้า,Search email of subscriber
+subscriber.phone_filter,Search phone of subscriber,Tìm kiếm theo số điện thoại,ค้นหาโทรศัพท์ของลูกค้า,Search phone of subscriber
+subscriber.status_filter,Search status of subscriber,Tìm kiếm theo trạng thái,สถานะการค้นหาของลูกค้า,Search status of subscriber
+subscriber.date_filter,Search for created date,Tìm kiếm theo ngày tạo,ค้นหาวันที่สร้าง,Search for created date
+subscriber.name,Subscriber Name,Tên khách hàng,ชื่อลูกค้า,Subscriber Name
+subscriber.email,Email Address,Địa chỉ email,ที่อยู่อีเมล,Email Address
+subscriber.phone,Phone Number,Số điện thoại,หมายเลขโทรศัพท์,Phone Number
+subscriber.status,Status,Trạng thái,สถานะ,Status
+subscriber_status.new,New,Mới,ใหม่,New
+subscriber_status.processing,Processing,Đang xử lý,กำลังดำเนินการ,Processing
+subscriber_status.created,Vendor Created,Đối tác đã được tạo,สร้างโดยผู้ขาย,Vendor Created
+subscriber_status.closed,Closed,Đóng,ปิด,Closed
+subscriber.created,Created At,Ngày tạo,สร้าง At,Created At
+subscriber.market,Markets,Thị trường,Markets,Markets
+subscriber.quantity,Quantity per month,Lượng đơn trên tháng,Quantity per month,Quantity per month
+subscriber.businessProduct,Business Products,Sản phẩm kinh doanh,Business Products,Business Products
+subscriber.platform,Business Platforms,Nền tảng đang sử dụng để kinh doanh,Business Platforms,Business Platforms
+subscriber.note,Content,Nội dung,Content,Content
+product.create_title,Create Product,Thêm mới sản phẩm,Create Product,Create Product
+product.title,Product,Sản phẩm,Product,Product
+product.name,Product Name,Tên sản phẩm,Name,Name
+product.name_pl,Enter product name,Nhập tên sản phẩm,Enter name,Enter name
+product.code,Product Code,Mã sản phẩm,Code,Code
+product.code_pl,Enter product code,Nhập mã sản phẩm,Enter code,Enter code
+product.manufactory,Manufactory,Nhà sản xuất,Manufactory,Manufactory
+product.manufactory_pl,Enter manufactory,Nhập tên nhà sản xuất,Enter manufactory,Enter manufactory
+product.group_product,Group product,Nhóm sản phẩm,Group product,Group product
+product.group_product_pl,Select group product,Chọn nhóm sản phẩm,Select group product,Select group product
+product.description,Description,Mô tả,Description,Description
+product.description_pl,Enter description,Nhập mô tả,Enter description,Enter description
+product.property,Properties,Thuộc tính,Properties,Properties
+product.vendor,Vendors,Đối tác,Vendors,Vendors
+product.attribute_name_pl,Enter attribute name,Nhập tên thuộc tính,Enter attribute name,Enter attribute name
+product.detail_property,Detail,Chi tiết,Detail,Detail
+telesales.title,Telesales,Telesales,Telesales,Telesales
+telesales.group,Groups,Nhóm,Groups,Groups
+telesales.team,Team,Nhóm,Team,Team
+telesales.name,Telesales Name,Tên Telesales,Telesales Name,Telesales Name
+telesales.email,Email,Email,Email,Email
+telesales.group_name,Telesales Group,Nhóm Telesales,Telesales Group,Telesales Group
+telesales.group_name_pl,Search group,Chọn nhóm telesales,Search group,Search group
+telesales.add,New Telesales,Telesales mới,New Telesales,New Telesales
+telesales.display,Display Name,Tên hiển thị,Display Name,Display Name
+telesales.search_user,Search username,Tìm username,Search username,Search username
+group.name_code,Group Name/Code,Tên/ Mã nhóm,Group Name/Code,Group Name/Code
+group.leader,Leader,Trưởng nhóm,Leader,Leader
+group.leader_pl,Search Leader,Tìm kiếm trưởng nhóm,Search Leader,Search Leader
+group.add,New Group,Nhóm mới,New Group,New Group
+group.name,Group Name,Tên nhóm,Group Name,Group Name
+group.code,Group Code,Mã nhóm,Group Code,Group Code
+group.add_title,New Telesales Group,Nhóm Telesales mới,New Telesales Group,New Telesales Group
+subscriber_status.done,Done,Đã đăng ký,Done,Done
+subscriber_status.cancel,Cancel,Từ chối,Cancel,Cancel
+group.name_pl,Enter name of group,Nhập tên nhóm,Enter name of group,Enter name of group
+group.code_pl,Enter code of group,Nhập mã nhóm,Enter code of group,Enter code of group
+stringee.invalid,Invalid number format,Số điện thoại không đúng định dạng,Invalid number format,Invalid number format
+stringee.media_error,You need to check for permissions on your microphone,Bạn cần cấp quyền microphone của bạn,You need to check for permissions on your microphone,You need to check for permissions on your microphone
+stringee.not_found,Error. Please try again,Lỗi. Vui lòng thử lại,Error. Please try again,Error. Please try again
+stringee.info_call,Info call,Thông tin cuộc gọi,Info call,Info call
+package.filter_tracking,Search Tracking Number,Nhập vào mã vận đơn,Search Tracking Number,Search Tracking Number
+package.from,From,Từ,From,From
+package.to,To,Đến,To,To
+package.filter_select_status,Select Shipment Status,Chọn trạng thái,Select Shipment Status,Select Shipment Status
+package.receiving_warehouse,Warehouse,Kho nhận,Warehouse,Warehouse
+package.filter_receiving_warehouse,Select Warehouse,Chọn kho nhận,Select Warehouse,Select Warehouse
+package.create,New Inbound Shipment,Tạo kiện nhập,New Inbound Shipment,New Inbound Shipment
+package.create_handicraft,Manually Create Inbound Shipment,Tạo kiện nhập thủ công,Manually Create Inbound Shipment,Manually Create Inbound Shipment
+package.title,Inbound Shipment,Kiện nhập,Inbound Shipment,Inbound Shipment
+package.code,Inbound Shipment code,Mã kiện,Inbound Shipment code,Inbound Shipment code
+package.tracking,Tracking Number,Mã vận đơn,Tracking Number,Tracking Number
+package.declare_quantity,Declare Quantity,Số lượng khai báo,Declare Quantity,Declare Quantity
+package.actual_quantity,Actual Quantity,Số lượng thực tế,Actual Quantity,Actual Quantity
+package.fee,Fee,Chi phí,Fee,Fee
+package.created_at,Created At,Thời gian tạo,Created At,Created At
+package.warehouse,Warehouse,Kho,Warehouse,Warehouse
+package.status,Shipment Status,Trạng thái kiện nhập,Shipment Status,Shipment Status
+package.status_financial,Status financial,Trạng thái tài chính,Status financial,Status financial
+package.filter,Filter,Lọc,Filter,Filter
+package.clear_all_filter,Clear all filters,Xóa bộ lọc,Clear all filters,Clear all filters
+package.filter_code,Search Inbound Shipment Code,Nhập vào mã kiện,Search Inbound Shipment Code,Search Inbound Shipment Code
+package.code_sku,Product SKU Code,Mã SKU,Product SKU Code,Product SKU Code
+package.filter_code_sku,Search Product SKU Code,Nhập vào mã SKU,Search Product SKU Code,Search Product SKU Code
+package.cancel,Cancel,Hủy,Cancel,Cancel
+package.inbound_info,Info Inbound Shipment,Thông tin kiện nhập,Info Inbound Shipment,Info Inbound Shipment
+package.product_sku,Product SKU List,Danh sách sản phẩm,Product SKU List,Product SKU List
+package.add_product_sku,New Product SKU,Thêm sản phẩm,New Product SKU,New Product SKU
+package.sku_code,Product SKU Code,Mã SKU,Product SKU Code,Product SKU Code
+package.sku_name,Product SKU Name,Tên sản phẩm,Product SKU Name,Product SKU Name
+package.select_sku,Search Product Sku,Tìm kiếm mã SKU,Search Product Sku,Search Product Sku
+package.copy,Duplicate,Sao lưu kiện nhập,Duplicate,Duplicate
+package.import_file,Import file excel,Import file excel,Import file excel,Import file excel
+package.choose_file,Chose file *.xlsx from your computer,Chọn file *.xlsx,Chose file *.xlsx from your computer,Chose file *.xlsx from your computer
+package.error_sku,Can't find product sku,Không tìm thấy sản phẩm,Can't find product sku,Can't find product sku
+package.list_success,Product SKU List Import Success,Danh sách sản phẩm import thành công,Product SKU List Import Success,Product SKU List Import Success
+package.list_fail,Product SKU List Import Fail,Danh sách sản phẩm import thất bại,Product SKU List Import Fail,Product SKU List Import Fail
+package.search_pl,Search product sku with sku code,Tìm kiếm sản phẩm theo sku code,Search product sku with sku code,Search product sku with sku code
+package.shipment_title,New Inbound Shipment From Purchasing Service,Nhập từ hệ thống mua hộ,New Inbound Shipment From Purchasing Service,New Inbound Shipment From Purchasing Service
+package.shipment_account,Purchasing Account,Tài khoản,Purchasing Account,Purchasing Account
+package.shipment_account_pl,Select purchasing account,Chọn tài khoản,Select purchasing account,Select purchasing account
+package.shipment_order,Order Number,Đơn hàng,Order Number,Order Number
+package.shipment_order_pl,Select order number ,Chọn đơn hàng,Select order number ,Select order number 
+package.added,Added,Đã thêm,Added,Added
+package-detail.created_at,Created At,Ngày nhập kho,Created At,Created At
+package-detail.warehouse_address,Warehouse Address,Địa chỉ kho nhận,Warehouse Address,Warehouse Address
+package-detail.weight,Gross Weight,Cân nặng,Gross Weight,Gross Weight
+package-detail.import_cost,Import cost,Chi phí nhập kho,Import cost,Import cost
+package-detail.note,Note,Ghi chú,Note,Note
+package-detail.title_package,Inbound Shipment List,Danh sách kiện nhập,Inbound Shipment List,Inbound Shipment List
+package-detail.number,Number,Số lượng,Number,Number
+package-detail.product_name,Product Name,Tên sản phẩm,Product Name,Product Name
+package-detail.title,Inbound Shipment Detail,Chi tiết kiện nhập,Inbound Shipment Detail,Inbound Shipment Detail
+package-detail.summary,Summary,Tổng quan,Summary,Summary
+sell_channel.title,Sell Channel,Kênh bán,Sell Channel,Sell Channel
+sell_channel.store,Store,Tên cửa hàng,Store,Store
+sell_channel.ecommerce,E-Commerce Exchange,Kênh,E-Commerce Exchange,E-Commerce Exchange
+sell_channel.export_warehouse,Export Warehouse,Kho xuất,Export Warehouse,Export Warehouse
+sell_channel.connection_expiration,Connection expiration,Thời gian hết hạn kết nối,Connection expiration,Connection expiration
+sell_channel.add_account,Add Account,Thêm tài khoản,Add Account,Add Account
+sell_channel.add_connection,Add Connection,Thêm kết nối,Add Connection,Add Connection
+sell_channel.ecommerce_placeholder,Select E-Commerce Exchange,Chọn kênh,Select E-Commerce Exchange,Select E-Commerce Exchange
+sell_channel.export_warehouse_placeholder,Select Export Warehouse,Chọn kho xuất,Select Export Warehouse,Select Export Warehouse
+inventory.title,Inventory,Hàng tồn,Inventory,Inventory
+inventory.sku_name,SKU name,Tên SKU,SKU name,SKU name
+inventory.sku_name_pl,Enter SKU name,Nhập tên SKU,Enter SKU name,Enter SKU name
+report.title,Telesales reports,Báo cáo telesales,Telesales reports,Telesales reports
+report.call_title,Performance by Call Status,Báo cáo cuộc gọi,Performance by Call Status,Performance by Call Status
+report.telesales_title,Performance by Telesales,Báo cáo hiệu suất telesales,Performance by Telesales,Performance by Telesales
+report.call_step,Step,Trạng thái,Step,Step
+report.call_status,Last Event Status,Trạng thái cuộc gọi,Last Event Status,Last Event Status
+report.contact,Contacts,Số lượng liên hệ,Contacts,Contacts
+report.percentage,Percentage,Phần trăm,Percentage,Percentage
+report.sub_total,Sub-total,Sub-total,Sub-total,Sub-total
+report.total,Total Assigned,Total Assigned,Total Assigned,Total Assigned
+report.call_new,New,Mới,New,New
+report.on_process,On process,Đang thực hiện,On process,On process
+report.agreed,Agreed,Đã đồng ý,Agreed,Agreed
+report.declined,Declined,Đã từ chối,Declined,Declined
+setting.title,Settings,Cài đặt,Settings,Settings
+setting.sla,SLA settings,Cài đặt SLA,SLA settings,SLA settings
+setting.assign,Assignment cancellation settings,Cài đặt hủy Assignment,Assignment cancellation settings,Assignment cancellation settings
+setting.last_update,Last updated at,Thời gian cập nhật gần nhất,Last updated at,Last updated at
+setting.update_at,Updated at,Thời gian cập nhật,Updated at,Updated at
+setting.update_by,Updated by,Cập nhật bởi,Updated by,Updated by
+setting.update_history,Update history,Lịch sử cập nhật,Update history,Update history
+setting.action_name,Action name,Tên hành động,Action name,Action name
+setting.if_condition,If (Condition),Nếu (Điều kiện),If (Condition),If (Condition)
+setting.contact_status,Contact (Status),Liên hệ (Trạng thái),Contact (Status),Contact (Status)
+setting.after_day,After (Hours),Sau (Giờ),After (Hours),After (Hours)
+setting.then_action,Then (Action),Sau đó (Hành động),Then (Action),Then (Action)
+setting.rule_code,Rule code,Mã luật,Rule code,Rule code
+setting.rule_name,Rule name,Tên luật,Rule name,Rule name
+setting.max_of_stock,Maximum of stock,Số lượng tồn kho tối đa,Maximum of stock,Maximum of stock
+setting.contact_quantity,Get Contact Quantity,Số lượng liên hệ được gán,Get Contact Quantity,Get Contact Quantity
+report.telesales,Telesales,Telesales,Telesales,Telesales
+report.email,Email,Email,Email,Email
+report.assigned,Assigned,Người được chọn,Assigned,Assigned
+report.agreed_rate,Agreed Rate,Agreed Rate,Agreed Rate,Agreed Rate
+report.delivered_rate,Delivered Rate,Delivered Rate,Delivered Rate,Delivered Rate
+report.sla_code,SLA Rule Name,Tên luật SLA,SLA Rule Name,SLA Rule Name
+report.maximum_stock,SLA Rule: Maximum Contact Remaining,SLA Rule: Maximum Contact Remaining,SLA Rule: Maximum Contact Remaining,SLA Rule: Maximum Contact Remaining
+report.get_contact_quantity,SLA Rule: Get Contact Quantity,SLA Rule: Get Contact Quantity,SLA Rule: Get Contact Quantity,SLA Rule: Get Contact Quantity
+report.unassign_to,Unassign,Unassign,Unassign,Unassign
+package.status_INIT,Init,Khởi tạo,Init,Init
+package.status_PUTAWAY,Putaway,"Kiện về kho",Putaway,Putaway
+package.status_TRANSPORTING,Transporting,Đang vận chuyển,Transporting,Transporting
+package.status_READY_FOR_DELIVERY,Ready for delivery,Chờ giao,Ready for delivery,Ready for delivery
+package.status_DELIVERING,Delivering,Đang giao,Delivering,Delivering
+package.status_DELIVERED,Delivered,Đã nhận,Delivered,Delivered
+package.status_MIA,Mia,Thất lạc,Mia,Mia
+package.status_REQUEST_FOR_DELIVERY,Request for delivery,Yêu cầu giao,Request for delivery,Request for delivery
+package.status_INACTIVE,Inactive,Ngừng hoạt động,Inactive,Inactive
+package.status_WAIT_FOR_RETURN,Wait for return,Chờ trả hàng,Wait for return,Wait for return
+package.status_RETURNING,Returning,Đang trả hàng,Returning,Returning
+package.status_RETURNED,Returned,Đã trả hàng,Returned,Returned
+package.status_WAIT_FOR_LIQUIDATION,Wait for liquidation,Chờ thanh lý,Wait for liquidation,Wait for liquidation
+package.status_LIQUIDATED,Liquidated,Đã thanh lý,Liquidated,Liquidated
+package.status_REFUSED,Refused,Khách không nhận,Refused,Refused
+package.status_IMPORTED,Imported,Đã nhập kho,Imported,Imported
+package.status_CANCELED,Canceled,Hủy,Canceled,Canceled
+package.status_PAID,Paid,Đã thanh toán,Paid,Paid
+package.status_UNPAID,Unpaid,Chưa thanh toán,Unpaid,Unpaid
+skuCombo.name_code,Combo Name/ Code,Tên/ Mã combo,Combo Name/ Code,Combo Name/ Code
+skuCombo.code,Combo Code,Mã combo,Combo Code,Combo Code
+skuCombo.name,Combo Name,Tên combo,Combo Name,Combo Name
+skuCombo.add,Add Combo,Thêm Combo,Add Combo,Add Combo
+skuCombo.new,New Combo,Thêm Combo,New Combo,New Combo
+skuCombo.new_sku,New SKU,Thêm SKU,New SKU,New SKU
+skuCombo.category,Category,Loại Combo,Category,Category
+skuCombo.detail_title,Detail Combo,Chi tiết Combo,Detail Combo,Detail Combo
+skuCombo.title,Combo,Combo,Combo,Combo
+skuCombo.create,Create Combo,Tạo Combo,Create Combo,Create Combo
+skuCombo.sku_name_code,SKU name/code,Tên/Mã SKU,SKU name/code,SKU name/code
+skuCombo.sku_name_code_pl,Search SKU name/code,Tìm kiếm tên/mã SKU,Search SKU name/code,Search SKU name/code
+skuCombo.code_pl,Enter Combo Code,Nhập Mã combo,Enter Combo Code,Enter Combo Code
+skuCombo.name_pl,Enter Combo Name,Nhập Tên combo,Enter Combo Name,Enter Combo Name
+skuCombo.category_pl,Select Category,Chọn Loại Combo,Select Category,Select Category
+ad_sku.created_at,Created At,Ngày tạo,Created At,Created At
+ad_sku.created_by,Created By,Người tạo,Created By,Created By
+ad_sku.added_at,Added At,Ngày thêm,Added At,Added At
+ad_sku.added_by,Added By,Người thêm,Added By,Added By
+ad_sku.add,Add Sku,Thêm SKU,Add Sku,Add Sku
+ad_sku.add_modal,Add Sku,Thêm SKU,Add Sku,Add Sku
+ad_sku.ok_text,Add Sku,Thêm SKU,Add Sku,Add Sku
+ad_sku.cancel_text,Cancel,Đóng,Cancel,Cancel
+ad_sku.message.success,Add sku success,Thêm sku thành công,Add sku success,Add sku success
+ad_sku.message.failed,Add sku failed,Thêm sku không thành công,Add sku failed,Add sku failed
+ad_sku.remove_sku_modal,Are you sure to do this action,Bạn có chắc chắn muốn thực hiện hành động này,Are you sure to do this action,Are you sure to do this action
+ad_sku.remove_ok_text,Ok,Đồng ý,Ok,Ok
+ad_sku.message.remove_sku_success,Remove sku success,Xoá sku thành công,Remove sku success,Remove sku success
+ad_sku.message.remove_sku_failed,Remove sku failed,Xoá sku không thành công,Remove sku failed,Remove sku failed
+ad_sku.action,Action,Thao tác,Action,Action
+order_detail.financial_status_FS01,New,Khởi tạo,New,New
+order_detail.financial_status_FS02,Shipment In-Progress,Chưa thanh toán,Shipment In-Progress,Shipment In-Progress
+order_detail.financial_status_FS03,Accountant Checking,Chờ đối soát,Accountant Checking,Accountant Checking
+order_detail.financial_status_FS04,Accountant Checked,"Đã đối soát, chờ thanh toán",Accountant Checked,Accountant Checked
+order_detail.financial_status_FS05,Paid,Đã thanh toán,Paid,Paid
+order_detail.financial_status_FS06,Cancelled,Đã hủy,Cancelled,Cancelled
+order_detail.financial_status,Financial status,Trạng thái tài chính,Financial status,Financial status
+order.import_financial,Financial Status Update,Cập nhật trạng thái tài chính,Financial Status Update,Financial Status Update
+order.financial_status_placeholder,Select financial status of order,Chọn trạng thái tài chính đơn hàng,Select financial status of order,Select financial status of order
+package.import,Import Package,Nhập file sản phẩm,Import Package,Import Package
+package.download_sample_file_here,Download sample file here,Tải file mẫu tại đây,Download sample file here,Download sample file here
+package.maximum_file_limit,Maximum file limit,File giới hạn tối đa,Maximum file limit,Maximum file limit
+package.maximum_file_size,Maximum file size,Dung lượng file tối đa,Maximum file size,Maximum file size
+package.download_template,Download Template,Download Template,Download Template,Download Template
+order.upload_file_less_than,Uploading file size must be less than 5Mb,Kích thước tệp tải lên phải nhỏ hơn 5Mb,Uploading file size must be less than 5Mb,Uploading file size must be less than 5Mb
+order.maximum_file_lines,Maximum file lines,Maximum file lines,Maximum file lines,Maximum file lines
+order.order_source,Order Source,Nguồn đơn,Order Source,Order Source
+order.type_telesales,Telesales,Đơn thường,Telesales,Telesales
+order.type_manual,Manual Created,Đơn thủ công,Manual Created,Manual Created
+order.type_imported,Excel Imported,Đơn tạo bằng excel,Excel Imported,Excel Imported
+inventory.product_sku_detail,Product SKU Detail,Thông tin sản phẩm,Product SKU Detail,Product SKU Detail
+inventory.product_sku_code,Product SKU Code,Mã sản phẩm,Product SKU Code,Product SKU Code
+inventory.product_sku_name,Product SKU Name,Tên sản phẩm,Product SKU Name,Product SKU Name
+inventory.product_category,Product Category,Phân loại,Product Category,Product Category
+inventory.safety_stock_level,Safety Stock Level,Mức tồn kho an toàn,Safety Stock Level,Safety Stock Level
+inventory.transport_services,Transport Services,Dịch vụ vận chuyển,Transport Services,Transport Services
+inventory.service,Service,Dịch vụ,Service,Service
+inventory.gross_weight,Gross Weight,Cân nặng,Gross Weight ,Gross Weight
+inventory.dimension,Dimension,Kích thước,Dimension,Dimension
+inventory.length,Length,Chiều dài,Length,Length
+inventory.width,Width,Chiều rộng,Width,Width
+inventory.height,Height,Chiều cao,Height,Height
+inventory.warehouse_import_service,Warehouse Import Service,Dịch vụ nhập kho,Warehouse Import Service,Warehouse Import Service
+inventory.warehousing_service,Warehousing Service,Dịch vụ lưu kho,Warehousing Service,Warehousing Service
+inventory.warehouse_export_service,Warehouse Export Service,Dịch vụ xuất kho,Warehouse Export Service,Warehouse Export Service
+inventory.returning_warehouse_import_service,Retuning Warehouse Import Service,Dịch vụ nhập hoàn,Retuning Warehouse Import Service,Retuning Warehouse Import Service
+inventory.estimated_fee,Estimated Fee,Chi phí ước tính,Estimated Fee,Estimated Fee
+inventory.estimated_total_fee,Estimated Total Fee,Tổng ước tính,Estimated Total Fee,Estimated Total Fee
+inventory.reason_detail,Detail,Lý do,Detail,Detail
+inventory.excel_export,Excel Export,Xuất file excel,Excel Export,Excel Export
+inventory.history,Inventory History,Lịch sử tồn kho,Inventory History,Inventory History
+inventory.detail_title,Inventory Detail,Chi tiết tồn kho,Inventory Detail,Inventory Detail
+inventory.action,Action,Hành động,Action,Action
+inventory.quantity,Quantity,Thay đổi,Quantity,Quantity
+order_financing.title,Order Financing,Tài chính đơn hàng,Order Financing,Order Financing
+order_financing.total_order_amount,Total Order Amount,Tổng giá trị đơn hàng,Total Order Amount,Total Order Amount
+order_financing.total_received_cod,Total Received COD,COD Thu được,Total Received COD,Total Received COD
+order_financing.total_fee,Total Fee,Tổng các chi phí,Total Fee,Total Fee
+order_financing.balance,Balance,Còn lại,Balance,Balance
+order_financing.order_amount,Order Amount,Giá trị đơn hàng,Order Amount,Order Amount
+order_financing.received_cod,Received COD,COD đã thu được,Received COD,Received COD
+order_financing.charged_weight,Charged Weight,Cân nặng tính phí,Charged Weight,Charged Weight
+order_financing.finnacial_information,Financial Information,Thông tin tài chính,Financial Information,Financial Information
+order_financing.packaging_fee,Packaging Fee,Phí đóng gói,Packaging Fee,Packaging Fee
+order_financing.cod_fee,COD Fee,Phí COD,COD Fee,COD Fee
+order_financing.transporting_fee,Transporting Fee,Phí vận chuyển,Transporting Fee,Transporting Fee
+order_financing.other_logistics_fee,Other Logistics Fee,Chi phí kho vận khác,Other Logistics Fee,Other Logistics Fee
+ortder_financing.warehouse_returning_fee,Warehouse Returning Fee,Chi phí nhập hoàn,Warehouse Returning Fee,Warehouse Returning Fee
+order_financing.purchasing_fee,Purchasing Fee,Phí mua hộ,Purchasing Fee,Purchasing Fee
+order_financing.operation_fee,Operation Fee,Phí vận hành,Operation Fee,Operation Fee
+order_financing.amount,Amount,Đơn vị tiền tệ,Amount,Amount
+order_payment.confirmation,Payment Confirmation,Xác nhận thanh toán,Payment Confirmation,Payment Confirmation
+order_payment.method,Payment Method,Phương thức thanh toán,Payment Method,Payment Method
+order_payment.cod,COD (Cash On Delivery),Trả tiền khi nhận hàng,COD (Cash On Delivery),COD (Cash On Delivery)
+order_payment.pre_paid_by_cash,Prepaid by Cash,Trả trước bằng tiền mặt,Prepaid by Cash,Prepaid by Cash
+order_payment.pre_paid_by_bank,Prepaid by Bank Transfer,Trả trước bằng chuyển khoản,Prepaid by Bank Transfer,Prepaid by Bank Transfer
+order_payment.pre_paid_amount,Prepaid Amount,Số tiền đã thanh toán,Prepaid Amount,Prepaid Amount
+order_payment.date,Payment Date,Ngày thanh toán,Payment Date,Payment Date
+order_payment.note,Payment Note,Ghi chú thanh toán,Payment Note,Payment Note
+order_payment.bank,Bank,Tên ngân hàng,Bank,Bank
+order_payment.bank_account_number,Bank Account Number,Số tài khoản ngân hàng,Bank Account Number,Bank Account Number
+order_payment.cod_confirmation,Customer confirmed to pay by cash on delivery,Xác nhận khách trả tiền khi nhận hàng (COD),Customer confirmed to pay by cash on delivery,Customer confirmed to pay by cash on delivery
+order_payment.customer_prepaid,Customer prepaid,Xác nhận đã thanh toán số tiền,Customer prepaid,Customer prepaid
+order_payment.on,on,Vào ngày,on,on
+order_payment.by,by,Bằng,by,by
+order_payment.amount_gt_0,Amount must be greater than 0,Số tiền phải lớn hơn 0,Amount must be greater than 0,Amount must be greater than 0
+purchasing_account.title,Purchasing Account,Tài khoản mua hộ,Purchasing Account,Purchasing Account
+purchasing_account.add,Add Purchasing Account,Thêm tài khoản mua hộ,Add Purchasing Account,Add Purchasing Account
+purchasing_account.pin_code,PIN Code,Mã PIN,PIN Code,PIN Code
+purchasing_account.name,Account Name,Tên tài khoản,Account name,Account name
+purchasing_account.select_service,Select the service to link,Chọn dịch vụ cần liên kết,Select the service to link,Select the service to link
+purchasing_account.enter_name,Enter your account name,Nhập vào tên tài khoản,Enter your account name,Enter your account name
+purchasing_account.enter_password,Enter password,Nhập vào mật khẩu,Enter password,Enter password
+purchasing_account.enter_pin_code,Enter the PIN code,Nhập vào mã PIN,Enter the PIN code,Enter the PIN code
+purchasing_account.active,Active,Đang hoạt động,Active,Active

@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./src/*"],
+      "@api/*": ["./src/api/*"],
+      "@component/*": ["./src/component/*"],
+      "@model/*": ["./src/model/*"],
+      "@store/*": ["./src/store/*"],
+      "@config/*": ["./src/config/*"],
+      "@reducer/*": ["./src/reducer/*"],
+      "@hook/*": ["./src/hook/*"],
+      "@resource/*": ["./src/resource/*"],
+      "@request/*": ["./src/request/*"],
+      "@response/*": ["./src/response/*"],
+      "@screen/*": ["./src/screen/*"],
+      "@util/*": ["./src/util/*"],
+      "@lang/*": ["./src/lang/*"]
+    }
+  }
+}

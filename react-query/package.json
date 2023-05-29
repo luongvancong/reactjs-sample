@@ -1,0 +1,60 @@
+{
+  "name": "chewbacca",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host --mode=dev",
+    "build": "tsc && vite build --mode=production",
+    "lint": "eslint src --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview",
+    "build:lang": "cd src/lang && node CsvToJson.cjs"
+  },
+  "lint-staged": {
+    "**/*": "prettier --write --ignore-unknown"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5",
+    "@tailwindcss/nesting": "^0.0.0-insiders.565cd3e",
+    "@types/linkifyjs": "^2.1.4",
+    "@types/lodash": "^4.14.194",
+    "@types/numeral": "^2.0.2",
+    "@types/react-router-dom": "^5.3.3",
+    "antd": "^5.4.7",
+    "axios": "^1.4.0",
+    "dayjs": "^1.11.7",
+    "linkifyjs": "^4.1.1",
+    "localforage": "^1.10.0",
+    "lodash": "^4.17.21",
+    "match-sorter": "^6.3.1",
+    "numeral": "^2.0.6",
+    "papaparse": "^5.4.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-query": "^3.39.3",
+    "react-redux": "^8.0.5",
+    "react-router-dom": "^6.11.1",
+    "sort-by": "^1.2.0",
+    "vite-tsconfig-paths": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "@typescript-eslint/eslint-plugin": "^5.57.1",
+    "@typescript-eslint/parser": "^5.57.1",
+    "@vitejs/plugin-react": "^4.0.0",
+    "autoprefixer": "^10.4.14",
+    "eslint": "^8.38.0",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.3.4",
+    "husky": "^8.0.3",
+    "lint-staged": "^13.2.2",
+    "postcss": "^8.4.23",
+    "postcss-import": "^15.1.0",
+    "prettier": "^2.8.8",
+    "tailwindcss": "^3.3.2",
+    "typescript": "^5.0.2",
+    "vite": "^4.3.2",
+    "vite-plugin-eslint": "^1.8.1"
+  }
+}
